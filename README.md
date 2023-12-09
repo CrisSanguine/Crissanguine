@@ -38,7 +38,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSanguine&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CrisSanguine&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <br>
 
-<h3 align="center"> Profile Views : <h3/> 
+<h3 align="center"> 🧍Personal Information:🧍 English / Spanish <h3/> 
 <div>
 <p><img align="right" src="https://blogdatlas.files.wordpress.com/2022/10/analisis-bigs-data.gif?w=400" alt="adam-pw" /></p>
 
@@ -47,7 +47,7 @@
 <br>
 <a href="mailto:cristiansanguine_cas29@live.com.ar?subject=Servicio%20Profesional%20-%20Professional%20Service&amp;body=Hi%20CrisSanguine,%0D%0A%0D%0A...">✉ cristiansanguine_cas29@live.com.ar</a>
 <br>
-<a href="https://www.unlu.edu.ar/carg-administracion.html" 📚 UNLu - Licenciado en Administracion / Business Administration </a>
+<a href="https://www.unlu.edu.ar/carg-administracion.html"> 📚 UNLu - Lic. en Administración / Business Administration </a>
 </p>
 
 <br>
