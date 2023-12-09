@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=25&lines=Cris+Sanguine+presents+projects:...;E-commerce,+big+data+and;financial+management+and+accounting...;I'm+also+have+a+degree+in+Business+Administration;And+I'm+a+proud+Argentine+🇵🇰)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&linesI'm+also+have+a+degree+in+Business+Administration;I'm+a+proud+Argentine+🇦🇷;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+also+have+a+degree+in+Business+Administration;I'm+a+proud+Argentine+🇦🇷;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://ossinsight.io">
