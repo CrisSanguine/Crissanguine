@@ -59,7 +59,7 @@
 
 <div align="center">
 <a href="https://ossinsight.io">
-  <img src="https://blogdatlas.files.wordpress.com/2022/10/analisis-bigs-data.gif?w=900"
+  <img src=""
 </a>
 </div>
 
