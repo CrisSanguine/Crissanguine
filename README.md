@@ -22,7 +22,7 @@
     </a> -->
   </h4>
 </div>
-<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> to you! be glad to HELP YOU !!! to you!  </h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 🤗to you!  be glad to <strong><i> HELP YOU  </i></strong> !!! to you!🤗  </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=59a2d3&size=23&lines=Cris+Sanguine+presents+projects:...;E-commerce,+big+data+and;financial+management+and+accounting...;)](https://git.io/typing-svg)
 
@@ -30,29 +30,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E2B989&size=23&lines=I'm+a+degree+in+Business+Administration;I'm+a+proud+Argentine+🇦🇷;)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
-  <br>
+<br>
   
 | ![CrisSanguine's github stats](https://github-readme-stats.vercel.app/api?username=CrisSanguine&show_icons=true&theme=tokyonight) | ![CrisSanguine GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrisSanguine&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSanguine&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CrisSanguine&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
 <br>
 
-<p align="right"> <h3>Profile Views : <h3/> 
-  </p>
+<h3 align="center"> Profile Views : <h3/> 
+<div>
+<p><img align="right" src="https://blogdatlas.files.wordpress.com/2022/10/analisis-bigs-data.gif?w=400" alt="adam-pw" /></p>
 
-<br>
-
-<p><img align="right" src="https://blogdatlas.files.wordpress.com/2022/10/analisis-bigs-data.gif?w=900" alt="adam-pw" /></p>
-
-
+<p align="left">
 - 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+<br>
+<a href="mailto:cristiansanguine_cas29@live.com.ar?subject=Servicio%20Profesional%20-%20Professional%20Service&amp;body=Hi%20CrisSanguine,%0D%0A%0D%0A...">✉ cristiansanguine_cas29@live.com.ar</a>
+<br>
+<a href="https://www.unlu.edu.ar/carg-administracion.html" 📚 UNLu - Licenciado en Administracion / Business Administration </a>
+</p>
 
 <br>
 
