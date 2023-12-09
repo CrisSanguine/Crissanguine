@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+BOLUDO...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Cristian+Sanguine+presents+projects:;I'm+a+Flutter+BOLUDO...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://ossinsight.io">
