@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">I'm a  OSSInsight! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=59a2d3&size=23&lines=Cris+Sanguine+presents+projects:...;E-commerce,+big+data+and;financial+management+and+accounting...;)](https://git.io/typing-svg)
 
@@ -9,7 +9,18 @@
 
 <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
+  <br>
+  
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CrisSanguine&theme=tokyonight)](https://git.io/praveenscience)
 
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CrisSanguine&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrisSanguine&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSanguine&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CrisSanguine&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
