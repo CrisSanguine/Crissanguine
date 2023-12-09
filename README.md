@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=59a2d3&size=23&lines=Cris+Sanguine+presents+projects:...;E-commerce,+big+data+and;financial+management+and+accounting...;)](https://git.io/typing-svg)
 
+<img src="https://drive.google.com/uc?id=1eLIDbwg7HqWTSjbNF_BfRQo8XLz1hnoQ" alt="Texto alternativo" width="900" height="250">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E2B989&size=23&lines=I'm+a+degree+in+Business+Administration;I'm+a+proud+Argentine+🇦🇷;)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
