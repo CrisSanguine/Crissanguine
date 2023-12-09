@@ -13,11 +13,11 @@
         <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
     </a>
 <!--    PORTAFOLIO WEB  -->
-    <!--     <a href='http://aditya664.me/'> 
+    <!--     <a href='http:///'> 
         <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
     </a> -->
 <!--      NO SE MEDIUM -->
-    <!--     <a href='https://medium.com/@adityadeshmukh7350'> 
+    <!--     <a href='https://medium.com/'> 
         <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>
     </a> -->
   </h4>
@@ -38,17 +38,14 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSanguine&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CrisSanguine&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-
-<br>
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views : <h3/> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://blogdatlas.files.wordpress.com/2022/10/analisis-bigs-data.gif?w=900" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -62,7 +59,7 @@
 
 <div align="center">
 <a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
+  <img src="https://blogdatlas.files.wordpress.com/2022/10/analisis-bigs-data.gif?w=900"
 </a>
 </div>
 
