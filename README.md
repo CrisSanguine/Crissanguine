@@ -43,6 +43,8 @@
 <p><img align="right" src="https://blogdatlas.files.wordpress.com/2022/10/analisis-bigs-data.gif?w=400" alt="adam-pw" /></p>
 
 <p align="left">
+<a href="https://www.google.com/maps/place/-36.6769,-60.5588" target="_blank"> 📍 Buenos Aires, Argentina </a>
+<br>
 - 🌱 I’m currently learning Web Development and other programming languages
 <br>
 <a href="mailto:cristiansanguine_cas29@live.com.ar?subject=Servicio%20Profesional%20-%20Professional%20Service&amp;body=Hi%20CrisSanguine,%0D%0A%0D%0A...">✉ cristiansanguine_cas29@live.com.ar</a>
