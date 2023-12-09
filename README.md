@@ -49,14 +49,15 @@
 <br>
 <a href="https://www.unlu.edu.ar/carg-administracion.html"> 📚 UNLu - Lic. en Administración / Business Administration </a>
 <br>
-- Educational Certification (Courses):
-   icono  see  <a href='https://www.linkedin.com/in/cristian-sanguine'> 
-        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-    </a>
-- Educational Certification (University): 
-   <a href="https://registrograduados.siu.edu.ar/consulta.php?"> - 🎓-UNLu >
-- Educational Certification (Languages): 
-   <a href="https://cui.edu.ar/argentina_programa.php"> - (🇮🇹;🇫🇷;🇬🇧) -UBA CUI > 
+<div>
+  <p><b><strong>Educational Certification:</strong></b></p>
+  <ul>
+    <li>(Courses): 📝 <a href='https://www.linkedin.com/in/cristian-sanguine'>LinkedIn 
+        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>✅</li>
+    <li>(University): 🎓 <a href="https://registrograduados.siu.edu.ar/consulta.php?">UNLu</a>✅</li>
+    <li>(Languages): 🇮🇹 🇫🇷 🇬🇧 <a href="https://cui.edu.ar/argentina_programa.php">UBA CUI</a>✅</li>
+  </ul>
+</div>
 </p>
 
 <br>
