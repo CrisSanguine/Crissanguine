@@ -1,20 +1,25 @@
 <div style="display: flex; gap: 10px; align-items: center;">
     <h4> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Connect with me:  
+<!--    LINKEDIN -->
     <a href='https://www.linkedin.com/in/cristian-sanguine'> 
         <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
     </a>
-    <a href='https://www.twitter.com/NoobCoder07'> 
+<!--    TWITTER -->
+    <a href='https://www.twitter.com/CrisSanguine'> 
         <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
     </a>
-    <a href='https://medium.com/@adityadeshmukh7350'> 
-        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>
-    </a>
-    <a href='http://aditya664.me/'> 
-        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
-    </a>
-    <a href='https://www.github.com/Aditya664'> 
+<!--  GITHUB -->
+    <a href='https://www.github.com/CrisSanguine'> 
         <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
     </a>
+<!--    PORTAFOLIO WEB  -->
+    <!--     <a href='http://aditya664.me/'> 
+        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
+    </a> -->
+<!--      NO SE MEDIUM -->
+    <!--     <a href='https://medium.com/@adityadeshmukh7350'> 
+        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>
+    </a> -->
   </h4>
 </div>
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> to you! be glad to HELP YOU !!! to you!  </h1>
