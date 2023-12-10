@@ -30,7 +30,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E2B989&size=23&lines=I'm+a+degree+in+Business+Administration;I'm+a+proud+Argentine+🇦🇷;)](https://git.io/typing-svg)
 
-<h3 align="center">Programmer Analyst | Business Administration | Data Analysis Enthusiast | FullStack Developer</h3>
+<h3 align="center">Programmer Analyst | Business Administration | Data Analysis | FullStack Developer</h3>
 
 
 <h3 align="center"> 🧍Personal Information:🧍 English / Spanish <h3/> 
