@@ -24,6 +24,12 @@
 </div>
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 🤗to you!  be glad to <strong><i> HELP YOU  </i></strong> !!! to you!🤗  </h1>
 
+<p>
+
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.05 % I still have time to learn more Techs this year
+
+</p>
+
 <div align="center">
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
