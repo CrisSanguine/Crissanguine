@@ -24,6 +24,18 @@
 </div>
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 🤗to you!  be glad to <strong><i> HELP YOU  </i></strong> !!! to you!🤗  </h1>
 
+<div align="center">
+<h3>Contact Me :handshake:</h3>
+<a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.instagram.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://twitter.com/marcelo_garbin" target="_blank"><img src="https://img.shields.io/badge/-marcelo__garbin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
+<a href="mailto:marcelo@garbin.dev"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
+<br/><br/>
+<a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=59a2d3&size=23&lines=Cris+Sanguine+presents+projects:...;E-commerce,+big+data+and;financial+management+and+accounting...;)](https://git.io/typing-svg)
 
 <img src="https://drive.google.com/uc?id=1eLIDbwg7HqWTSjbNF_BfRQo8XLz1hnoQ" alt="Texto alternativo" width="900" height="250">
