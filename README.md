@@ -132,6 +132,12 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSanguine&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CrisSanguine&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <br>
 
+### Thank you for visiting my profile 🤓 
+
+### Feel free to fork and 🌟 this repo!!
+
+------
+
 ## Sponsors
 Credit: [CrisSanguine](https://github.com/CrisSanguine)
 
