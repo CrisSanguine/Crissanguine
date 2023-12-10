@@ -56,7 +56,7 @@
 
 <br>
 
-
+ <h3 align="center" >💻 Tech Stack: Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3>
 
 
 <div align="center">
