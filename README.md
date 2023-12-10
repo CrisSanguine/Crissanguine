@@ -30,7 +30,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E2B989&size=23&lines=I'm+a+degree+in+Business+Administration;I'm+a+proud+Argentine+🇦🇷;)](https://git.io/typing-svg)
 
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Programmer Analyst | Business Administration | Data Analysis Enthusiast | FullStack Developer</h3>
 
 
 <h3 align="center"> 🧍Personal Information:🧍 English / Spanish <h3/> 
@@ -56,6 +56,8 @@
 </p>
 
 <br>
+
+
 
 
 <div align="center">
@@ -132,4 +134,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <br>
 
 ## Sponsors
+Credit: [CrisSanguine](https://github.com/CrisSanguine)
+
+Last edited on: 15/12/2023
 
