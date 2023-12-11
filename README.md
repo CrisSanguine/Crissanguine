@@ -66,7 +66,7 @@
   <ul>
     <li>(Courses): 📝 <a href='https://www.linkedin.com/in/cristian-sanguine'>LinkedIn 
         <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>✅</li>
-    <li>(Courses): 🥇 <a href=https://www.credly.com/users/prasanna-brabourame>Credly - Badges </a>✅</li>
+    <li>(Courses): 🥇 <a href="https://www.credly.com/users/prasanna-brabourame">Credly - Badges </a>✅</li>
     <li>(University): 🎓 <a href="https://registrograduados.siu.edu.ar/consulta.php?">UNLu</a>✅</li>
     <li>(Languages): 🇮🇹 🇫🇷 🇬🇧 <a href="https://cui.edu.ar/argentina_programa.php">UBA CUI</a>✅</li>
   </ul>
