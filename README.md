@@ -23,7 +23,11 @@
   </h4>
 </div>
 
-<img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
+<div>
+<img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
+<img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
+<img width="33%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
+</div>
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 🤗to you!  be glad to <strong><i> HELP YOU  </i></strong> !!! to you!🤗  </h1>
 
