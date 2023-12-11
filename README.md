@@ -94,6 +94,12 @@
 
 <br>
 
+<h3>
+  <code>
+    Preferred Languages
+  </code>
+</h3>
+
  <h3 align="center" >💻 Tech Stack: Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 📋 Languages and Framework:
