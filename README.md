@@ -315,7 +315,7 @@
   <tr>
     <td valign="top" width="33%">
 
-      ### Software & Tools
+### Software & Tools
       <div align="center">
         <!-- Agrega tus elementos para Software & Tools aquí -->
       </div>
@@ -323,7 +323,7 @@
     </td>
     <td valign="top" width="33%">
 
-      ### Databases and Cloud Hosting
+### Databases and Cloud Hosting
       <div align="center">
         <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
         <!-- Agrega más elementos para Databases and Cloud Hosting según sea necesario -->
@@ -332,7 +332,7 @@
     </td>
     <td valign="top" width="33%">
 
-      ### Frameworks and Libraries
+### Frameworks and Libraries
       <div align="center">
         <!-- Agrega tus elementos para Frameworks and Libraries aquí -->
       </div>
