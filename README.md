@@ -631,24 +631,24 @@
    ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
-<a href="https://www.spyder-ide.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/120px-Spyder_logo.svg.png" alt="Spyder" width="43" height="40" /></a>
+<a href="https://www.spyder-ide.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/120px-Spyder_logo.svg.png" alt="Spyder" width="40" height="40" /></a>
 <a href="https://atom.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/atom-editor.png" alt="Atom" width="44" height="44" /></a>
-<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter" width="44" height="44" /></a>
-<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="44" height="44" /></a>
-<a href="https://www.codeblocks.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/code-blocks.png" alt="Code::Blocks" width="43" height="40" /></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="43" height="40" /></a>
-<a href="https://www.eclipse.org/ide/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="60" height="40" /></a>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="43" height="40" /></a>
-<a href="https://www.tableau.com" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="43" height="37" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="43" height="37" /></a>
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40" /></a>
+<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="40" height="40" /></a>
+<a href="https://www.codeblocks.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/code-blocks.png" alt="Code::Blocks" width="40" height="40" /></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40" /></a>
+<a href="https://www.eclipse.org/ide/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="80" height="40" /></a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
+<a href="https://www.tableau.com" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
 
-<a href="https://hadoop.apache.org/" target="_blank"><img title="Hadoop" alt="Hadoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" width="70" height="40" /></a>
+<a href="https://hadoop.apache.org/" target="_blank"><img title="Hadoop" alt="Hadoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" width="80" height="40" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img title="Spark" alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" width="80" height="40" /></a>
-<a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="40" height="40" /></a>
+<a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="80" height="40" /></a>
 <a href="https://bitbucket.org/" target="_blank"><img title="Bitbucket" alt="Bitbucket" src="https://img.icons8.com/color/48/000000/bitbucket.png" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank"><img title="Git" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" width="70" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank"><img title="Git" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40" /></a>
 <a href="https://www.atlassian.com/software/bamboo" target="_blank"><img title="Bamboo" alt="Bamboo" src="https://img.icons8.com/color/48/000000/bamboo.png" width="40" height="40" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img title="Kafka" alt="Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/64px-Apache_kafka.svg.png" width="105" height="40" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img title="Kafka" alt="Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/64px-Apache_kafka.svg.png" width="40" height="40" /></a>
 
 </p>
 
