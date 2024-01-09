@@ -631,30 +631,25 @@
    ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
-    <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
-    <a href="https://atom.io/"> <img src="https://img-premium.flaticon.com/png/512/3074/premium/3074119.png?token=exp=1626555999~hmac=2a1e95b7621c0c776e6670eedc9de410" alt="express" width="44" height="44"/ > </a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a> 
-  <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"> <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" alt="express" width="44" height="44"/> </a> 
-   <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg" alt="express" width="43" height="40" /> </a> 
-  <a href="https://www.jetbrains.com/pycharm/"> <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" alt="express" width="43" height="40" /> </a>
-  <a href="https://www.eclipse.org/ide/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" alt="express" width="40" height="40" /> </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="express" width="43" height="40" /> </a>  
-  <a href="https://uneecops.com/lpage/tableau-software-landing-page/?lead=Marketing%20Team&data=Pay%20per%20Click%20Ads&leadtype=BI&service=Tableau&utm_term=tablu&utm_campaign=Tableau+BI&utm_source=adwords&utm_medium=ppc&hsa_acc=8552612374&hsa_cam=1615962432&hsa_grp=61145525276&hsa_ad=518466757380&hsa_src=g&hsa_tgt=kwd-301142873929&hsa_kw=tablu&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw_8mHBhClARIsABfFgpjsZ7xm6kFh91pMncn7q1OAIqVApO9Uae5JTl9YNamEy5dnCO3C9TQaAmS_EALw_wcB" target="_blank"> <img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="express" width="43" height="37" /> </a> 
-  <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" alt="express" width="43" height="37" /></a>
-  <a href="https://tzutalin.github.io/labelImg/"> <img src="https://i0.wp.com/neptune.ai/wp-content/uploads/LabelImg-logo.png?resize=192%2C192&ssl=1" alt="express" width="40" height="40" /> </a>
+<a href="https://www.spyder-ide.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/120px-Spyder_logo.svg.png" alt="Spyder" width="43" height="40" /></a>
+<a href="https://atom.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/atom-editor.png" alt="Atom" width="44" height="44" /></a>
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter" width="44" height="44" /></a>
+<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="44" height="44" /></a>
+<a href="https://www.codeblocks.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/code-blocks.png" alt="Code::Blocks" width="43" height="40" /></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="43" height="40" /></a>
+<a href="https://www.eclipse.org/ide/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="60" height="40" /></a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="43" height="40" /></a>
+<a href="https://www.tableau.com" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="43" height="37" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="43" height="37" /></a>
 
-  <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />	
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
-  
+<a href="https://hadoop.apache.org/" target="_blank"><img title="Hadoop" alt="Hadoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" width="70" height="40" /></a>
+<a href="https://spark.apache.org/" target="_blank"><img title="Spark" alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" width="80" height="40" /></a>
+<a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="40" height="40" /></a>
+<a href="https://bitbucket.org/" target="_blank"><img title="Bitbucket" alt="Bitbucket" src="https://img.icons8.com/color/48/000000/bitbucket.png" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank"><img title="Git" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" width="70" height="40" /></a>
+<a href="https://www.atlassian.com/software/bamboo" target="_blank"><img title="Bamboo" alt="Bamboo" src="https://img.icons8.com/color/48/000000/bamboo.png" width="40" height="40" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img title="Kafka" alt="Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/64px-Apache_kafka.svg.png" width="105" height="40" /></a>
+
 </p>
 
 
