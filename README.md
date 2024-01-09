@@ -315,7 +315,7 @@
 </td>
 
 </tr>
-</table>  
+</table>
 <hr>
 <table>
 <tr>
