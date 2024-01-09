@@ -258,7 +258,7 @@
 <table>
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" min-width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -277,7 +277,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" min-width="33%">
 	
 ### Backend  
 <div align="center">  
@@ -300,7 +300,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" min-width="33%">
 
 ### DevOps  
 <div align="center">  
@@ -320,7 +320,7 @@
 <table>
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" min-width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -330,7 +330,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" min-width="33%">
 	
 ### Backend  
 <div align="center">  
@@ -340,7 +340,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" min-width="33%">
 
 ### DevOps  
 <div align="center">  
