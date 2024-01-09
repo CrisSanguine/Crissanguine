@@ -316,7 +316,7 @@
     <td valign="top" width="33%">
 
 </td></tr></table>  
-<br/>  
+<hr>  
 
 
 <table><tr><td valign="top" width="33%">
@@ -357,11 +357,8 @@
 </td></tr></table>
 
 
-<br/>  
+<hr>  
 
-
-
-<br/>  
 
 ## 🛠️ My Skills
 -------------------
