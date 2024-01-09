@@ -320,7 +320,7 @@
 <table>
 <tr>
 	
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
  ### Software & Tools
 <div align="center">  
@@ -329,7 +329,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Databases and Cloud Hosting
 <div align="center">  
@@ -338,7 +338,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### auda 
 <div align="center">  
@@ -352,12 +352,8 @@
 
 </td>
 
-
 </tr>
 </table>
-
-<hr>  
-
 
 ## 🛠️ My Skills
 -------------------
