@@ -296,7 +296,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### Lenguajes 
+### Lenguajes FrontEnd
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" /></a>  
@@ -309,41 +309,33 @@
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Frameworks & Libraries
+### Frameworks & Libraries FrontEnd
 <div align="center">  
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="50" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="50" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" height="50" /></a>
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/graph.png" alt="Chart.js" height="50" /></a>
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://photos.wellfound.com/startups/i/350785-7754d90243b95a0ee539a25ad27c6cb5-medium_jpg.jpg?buster=1527684712" alt="canvasjs" width="40" height="40"/> </a>
+<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://photos.wellfound.com/startups/i/350785-7754d90243b95a0ee539a25ad27c6cb5-medium_jpg.jpg?buster=1527684712" alt="canvasjs" width="40" height="40"/></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" height="50" /></a>
 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="50" /></a>
-
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" height="50" /></a>
 
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" height="50" /></a>
 
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/120px-XAMPP_logo.svg.png" alt="XAMPP" height="50" /></a>
 </div>
 
 </td>
 
 <td valign="top" width="33%" min-width="33%">
 
-### DevOps  
+### Data Analyst  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" height="50" /></a>
+
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="50" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="50" /></a>
+
+
 </div>
 
 </td>
@@ -358,11 +350,11 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### Lenguajes
+### Lenguajes BackEnd
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50" />
+</a><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50" /></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
 	
 </div>
@@ -371,7 +363,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Frameworks and Libraries
+### Frameworks and Libraries BackEnd
 <div align="center">
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" height="50" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"></a>
@@ -384,8 +376,10 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### DevOps 
+### Databases & Cloud Hosting
 <div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
 
 </div>
@@ -402,17 +396,18 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### Databases and Cloud Hosting
+### IDEs/Editors
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/120px-XAMPP_logo.svg.png" alt="XAMPP" height="50" /></a>
+<a href="https://hadoop.apache.org/" target="_blank"><img title="Hadoop" alt="Hadoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" width="80" height="40" /></a>
+<a href="https://spark.apache.org/" target="_blank"><img title="Spark" alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" width="80" height="40" /></a>
 </div>
 
 </td>
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Software & Tools 
+### Testing
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
  
@@ -422,10 +417,15 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### Software & Tools 
+### DevOps
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
-
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" height="50" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" height="50" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img title="Kafka" alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" /></a>
+	
 </div>
 
 </td>
@@ -664,13 +664,12 @@
 <a href="https://www.tableau.com" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
 
-<a href="https://hadoop.apache.org/" target="_blank"><img title="Hadoop" alt="Hadoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" width="80" height="40" /></a>
-<a href="https://spark.apache.org/" target="_blank"><img title="Spark" alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" width="80" height="40" /></a>
+
 <a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="80" height="40" /></a>
 <a href="https://bitbucket.org/" target="_blank"><img title="Bitbucket" alt="Bitbucket" src="https://img.icons8.com/color/48/000000/bitbucket.png" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img title="Git" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40" /></a>
 <a href="https://www.atlassian.com/software/bamboo" target="_blank"><img title="Bamboo" alt="Bamboo" src="https://img.icons8.com/color/48/000000/bamboo.png" width="40" height="40" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img title="Kafka" alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" /></a>
+
 
 </p>
 
