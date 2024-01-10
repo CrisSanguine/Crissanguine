@@ -34,37 +34,17 @@
 <p align="left">
 <a href="https://codepen.io/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prasannabrabourame" height="30" width="40" /></a>
 <a href="https://dev.to/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prasannabrabourame" height="30" width="40" /></a>
-<a href="https://twitter.com/prasannabrabour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasannabrabour" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasannabrabourame" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/6703980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6703980" height="30" width="40" /></a>
 <a href="https://kaggle.com/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prasannabrabourame" height="30" width="40" /></a>
-<a href="https://fb.com/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasannabrabourame" height="30" width="40" /></a>
-<a href="https://instagram.com/er.pras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er.pras" height="30" width="40" /></a>
-<a href="https://medium.com/@prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prasannabrabourame" height="30" width="40" /></a>
+
+
+<a href="https://fb.com/CrisSanguine" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/100/000000/facebook-new.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/crissanguine/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/100/000000/instagram-new.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/100/000000/medium-monogram.svg" alt="medium" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/prasanna_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasanna_b" height="30" width="40" /></a>
 </p>
-
-<p align="left">
-
-<a href="https://www.electronjs.org" target="_blank"> <img src="" alt="electron" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-
-<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://gulpjs.com" target="_blank"> <img src="" alt="gulp" width="40" height="40"/> </a> 
-
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-
-<a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="" alt="karma" width="40" height="40"/> </a>
-<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-
-<a href="https://materializecss.com/" target="_blank"> <img src="" alt="materialize" width="40" height="40"/> </a> 
-<a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
-
-</p></br></br>
-
-<p>
 
 ⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.05 % I still have time to learn more Techs this year
 
@@ -292,6 +272,7 @@
 <a href="https://palletsprojects.com/p/flask/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://graphql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="40" height="40"/></a>
 <a href="https://gulpjs.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/100px-Gulp.js_Logo.svg.png" alt="gulp" width="40" height="40"/></a> <!-- too testing -->
+<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 
 
 	
