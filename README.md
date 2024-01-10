@@ -253,14 +253,8 @@
 <!-- Notion -->
 <a margin="20" href="https://www.notion.so/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/notion.png" alt="notion"></a>
 <!-- Postman -->
-<a margin="20" href="https://www.postman.com/downloads/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/post.png" alt="postman"></a>
 <!-- Sublime -->
 <a margin="20" href="https://www.sublimetext.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/sub.jpeg" alt="sublime"></a>
-<!-- Vscode -->
-<a margin="20" href="https://code.visualstudio.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/vsc.png" alt="vscode"></a>
-<!-- Visual studio -->
-<a margin="20" href="https://visualstudio.microsoft.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/vs.png" alt="visuals"></a>
-<br/>
 <!-- Datagrip -->
 <a margin="20" href="https://www.jetbrains.com/datagrip/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/datag.png" alt="datagrip"></a>
 <!-- Pycharm -->
@@ -276,14 +270,13 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
+
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
+
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
 
 </div>
@@ -301,7 +294,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="50" /></a>
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" height="50" /></a>
 </div>
 
@@ -309,7 +302,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Frameworks & Libraries FrontEnd
+### Frameworks & Libraries
 <div align="center">  
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="50" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
@@ -319,10 +312,6 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/graph.png" alt="Chart.js" height="50" /></a>
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://photos.wellfound.com/startups/i/350785-7754d90243b95a0ee539a25ad27c6cb5-medium_jpg.jpg?buster=1527684712" alt="canvasjs" width="40" height="40"/></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" height="50" /></a>
-
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" height="50" /></a>
-
-
 </div>
 
 </td>
@@ -363,7 +352,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Frameworks and Libraries BackEnd
+### Frameworks and Libraries
 <div align="center">
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" height="50" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"></a>
@@ -379,8 +368,9 @@
 ### Databases & Cloud Hosting
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" height="50" /></a>
+<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="50" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="50" /></a>
 
 </div>
 
@@ -398,9 +388,14 @@
 
 ### IDEs/Editors
 <div align="center">  
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" height="50"></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visuals height="50""></a>
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/120px-XAMPP_logo.svg.png" alt="XAMPP" height="50" /></a>
 <a href="https://hadoop.apache.org/" target="_blank"><img title="Hadoop" alt="Hadoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" width="80" height="40" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img title="Spark" alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" width="80" height="40" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img title="Kafka" alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" /></a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+
 </div>
 
 </td>
@@ -409,7 +404,7 @@
 	
 ### Testing
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" height="50" /></a>
  
 </div>
 
@@ -424,7 +419,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git" height="50" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" height="50" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img title="Kafka" alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" /></a>
 	
 </div>
 
