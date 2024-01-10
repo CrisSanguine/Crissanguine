@@ -323,24 +323,23 @@
 
 ### IDEs/Editors
 <div align="center">  
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" height="50"></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visuals height="50""></a>
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/120px-XAMPP_logo.svg.png" alt="XAMPP" height="50" /></a>
-<a href="https://hadoop.apache.org/" target="_blank"><img title="Hadoop" alt="Hadoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" width="80" height="40" /></a>
-<a href="https://spark.apache.org/" target="_blank"><img title="Spark" alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" width="80" height="40" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img title="Kafka" alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" /></a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visuals width="40" height="40""></a>
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="40" height="40"/> </a>
+<a href="https://www.apachefriends.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/120px-XAMPP_logo.svg.png" alt="XAMPP" width="40" height="40" /></a>
+<a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" alt="Hadoop" width="80" height="40" /></a>
+<a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" alt="Spark" width="80" height="40" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" /></a>
+<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
 
 </td>
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Testing
+### Testing & Multimedia Design and Development
 <div align="center">  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" height="50" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/></a>
  
 </div>
 
@@ -351,12 +350,12 @@
 ### DevOps
 <div align="center">  
 <!-- Windows -->
-<a href="https://www.microsoft.com/windows" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git" height="50" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="50" /></a>
+<a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git" width="40" height="40"/></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img  src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
 	
 </div>
 
