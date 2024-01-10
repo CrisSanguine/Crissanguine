@@ -231,7 +231,7 @@
 <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" width="40" height="40" /></a>
 <a href="https://backbonejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-icon.svg" alt="backbonejs" width="40" height="40"/></a>
 <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
-<a href="https://www.electronjs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/electron.png" alt="electron" width="40" height="40"/></a>
+<a href="https://www.electronjs.org" target="_blank"><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://materializecss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="materialize" width="40" height="40"/></a>
 
@@ -291,7 +291,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/></a>
 <a href="https://palletsprojects.com/p/flask/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://graphql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="40" height="40"/></a>
-<a href="https://gulpjs.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gulp.png" alt="gulp" width="40" height="40"/></a> <!-- too testing -->
+<a href="https://gulpjs.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/100px-Gulp.js_Logo.svg.png" alt="gulp" width="40" height="40"/></a> <!-- too testing -->
 
 
 	
