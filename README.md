@@ -135,15 +135,6 @@
 
 📋 Languages and Framework:
 <br/>
-<br/>
-
-
-
-<br/>
-<!-- java -->
-
-<!-- springboot -->
-<a margin="20" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/spring.png" alt="springboot"></a>
 <!-- nestjs -->
 <a margin="20" href="https://nestjs.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/nest.svg" alt="nestjs"></a>
 <!-- C# -->
@@ -151,7 +142,7 @@
 
 <br/>
 <!-- R -->
-<a margin="20" href="https://www.r-project.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/r.png" alt="R"></a>
+
 <!-- kotlin -->
 <a margin="20" href="https://kotlinlang.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kotlin.png" alt="kotlin"></a>
 <!-- Shell Script -->
@@ -250,6 +241,7 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40" /></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="40" height="40" /></a>
+<a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"></a>
 <a href="https://www.chartjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/graph.png" alt="Chart.js" width="40" height="40" /></a>
 <a href="https://canvasjs.com" target="_blank"><img src="https://photos.wellfound.com/startups/i/350785-7754d90243b95a0ee539a25ad27c6cb5-medium_jpg.jpg?buster=1527684712" alt="canvasjs" width="40" height="40"/></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" width="40" height="40" /></a>
@@ -279,9 +271,10 @@
 
 ### Lenguajes BackEnd
 <div align="center">  
-<a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" />
-</a><a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="40" height="30" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"></a>
 	
