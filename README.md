@@ -320,9 +320,10 @@
 
 ### Data Analyst  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="50" /></a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
+<a href="https://www.tableau.com" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="50" /></a>
+
 
 
 </div>
@@ -414,11 +415,11 @@
 
 ### DevOps
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git" height="50" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="50" /></a>
 	
 </div>
 
@@ -654,8 +655,7 @@
 <a href="https://www.codeblocks.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/code-blocks.png" alt="Code::Blocks" width="40" height="40" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40" /></a>
 <a href="https://www.eclipse.org/ide/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="80" height="40" /></a>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
-<a href="https://www.tableau.com" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
+
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
 
 
