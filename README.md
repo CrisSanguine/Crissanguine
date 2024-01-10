@@ -136,13 +136,12 @@
 📋 Languages and Framework:
 <br/>
 <br/>
-<!-- saas -->
-<a margin="20" href="https://sass-lang.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+
 
 
 <br/>
 <!-- java -->
-<a margin="20" href="https://www.java.com/en/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/java.png" alt="java"></a>
+
 <!-- springboot -->
 <a margin="20" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/spring.png" alt="springboot"></a>
 <!-- nestjs -->
@@ -185,13 +184,8 @@
 💾 Databases:
 <br/>
 <br/>
-<!-- MariaDB -->
-<a margin="20" href="https://mariadb.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/maria.jpeg" alt="maria"></a>
-<!-- Sqlite -->
-<a margin="20" href="https://www.sqlite.org/index.html" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/sqlite.jpeg" alt="sqlite"></a>
+
 <br/>
-<!-- DynamoDB -->
-<a margin="20" href="https://aws.amazon.com/th/dynamodb/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/dynamo.png" alt="dyanamo"></a>
 <!-- Redis -->
 <a margin="20" href="https://redis.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/redis.jpeg" alt="redis"></a>
 <!-- Elastic -->
@@ -237,11 +231,12 @@
 
 ### Lenguajes FrontEnd
 <div align="center">  
-<a href="https://www.w3.org/html/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="50" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" /></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="50" /></a>
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" height="50" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40" /></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40" /></a>
+<a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="40" height="40" /></a>
+<a href="https://sass-lang.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"></a>
 </div>
 
 </td>
@@ -250,14 +245,14 @@
 	
 ### Frameworks & Libraries
 <div align="center">  
-<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="50" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="50" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" height="50" /></a>
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/graph.png" alt="Chart.js" height="50" /></a>
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://photos.wellfound.com/startups/i/350785-7754d90243b95a0ee539a25ad27c6cb5-medium_jpg.jpg?buster=1527684712" alt="canvasjs" width="40" height="40"/></a>
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" height="50" /></a>
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+<a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="40" height="40" /></a>
+<a href="https://www.chartjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/graph.png" alt="Chart.js" width="40" height="40" /></a>
+<a href="https://canvasjs.com" target="_blank"><img src="https://photos.wellfound.com/startups/i/350785-7754d90243b95a0ee539a25ad27c6cb5-medium_jpg.jpg?buster=1527684712" alt="canvasjs" width="40" height="40"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" width="40" height="40" /></a>
 </div>
 
 </td>
@@ -266,12 +261,8 @@
 
 ### Data Analyst  
 <div align="center">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
-<a href="https://www.tableau.com" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
-
-
-
-
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
+<a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
 </div>
 
 </td>
@@ -288,10 +279,11 @@
 
 ### Lenguajes BackEnd
 <div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50" />
-</a><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50" /></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" />
+</a><a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"></a>
 	
 </div>
 
@@ -301,10 +293,10 @@
 	
 ### Frameworks & Libraries
 <div align="center">
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" height="50" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"></a>
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" height="50" /></a>
-<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/fr/a/ac/Codeigniter.png" alt="CodeIgniter" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40" /></a>
+<a href="https://codeigniter.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/a/ac/Codeigniter.png" alt="CodeIgniter" width="40" height="40" /></a>
 	
 </div>
 
@@ -314,12 +306,13 @@
 
 ### Databases & Cloud Hosting
 <div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" height="50" /></a>
-<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="50" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="40" height="40" /></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="80" height="40"></a>
+<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>   
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40" /></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="maria" width="80" height="40></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="40" /></a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
-
 
 </div>
 
