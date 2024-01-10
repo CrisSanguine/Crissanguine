@@ -388,7 +388,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-
 ![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
 ![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 
@@ -398,19 +397,14 @@
 
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 
 ### Misc tools:
 &emsp;
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ### Services & Frameworks: 
 &emsp;
@@ -477,8 +471,6 @@
 ### 👉Graphic Designing
 <p align="left">
   &emsp;
-  	
-  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
@@ -512,8 +504,6 @@
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
 </p>
@@ -533,7 +523,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 <h3 align="center">Backend </h3>
