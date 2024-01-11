@@ -13,7 +13,17 @@
 <!--  FACEBOOK -->    
 <a href="https://fb.com/CrisSanguine" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="20"  align="center" /></a>
 <!--  INSTAGRAM --> 
-<a href="https://www.instagram.com/crissanguine/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" align="center"/></a>	
+<a href="https://www.instagram.com/crissanguine/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" align="center"/></a>
+<!--  CODEPEN -->     
+<a href="https://codepen.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="20" align="center"/></a>
+<!--  DEV.TO --> 
+<a href="https://dev.to/" target="blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" width="20" align="center"/></a>
+<!--  STACKOVERFLOW -->     
+<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="20" align="center"/></a>
+<!--  KAGGLE --> 	    
+<a href="https://kaggle.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="20" align="center"/></a>
+<!--  HACKERRANK -->     
+<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" alt="hackerrank" width="20" align="center"/></a>
   </h4>
 </div>
 
@@ -26,16 +36,7 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 🤗to you!  be glad to <strong><i> HELP YOU  </i></strong> !!! to you!🤗  </h1>
 
 <p align="left">
-<a href="https://codepen.io/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prasannabrabourame" height="30" width="40" /></a>
-<a href="https://dev.to/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prasannabrabourame" height="30" width="40" /></a>
 
-<a href="https://stackoverflow.com/users/6703980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6703980" height="30" width="40" /></a>
-<a href="https://kaggle.com/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prasannabrabourame" height="30" width="40" /></a>
-
-
-
-
-<a href="https://www.hackerrank.com/prasanna_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasanna_b" height="30" width="40" /></a>
 </p>
 
 ⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.05 % I still have time to learn more Techs this year
@@ -95,8 +96,6 @@
 <a margin="20" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Csharp.png" alt="c#"></a>
 
 <br/>
-<!-- R -->
-
 <!-- kotlin -->
 <a margin="20" href="https://kotlinlang.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kotlin.png" alt="kotlin"></a>
 <!-- Shell Script -->
@@ -111,7 +110,6 @@
 <br/>
 ♾️ Tools/DevOps:
 <br/>
-<br/>
 <!-- Terraform -->
 <a margin="20" href="https://www.terraform.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/terra.png" alt="terraform"></a>
 <!-- K8s -->
@@ -119,34 +117,22 @@
 <!-- Openshift -->
 <a margin="20" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/opc.png" alt="openshift"></a>
 <br/>
-<!-- Jenkins -->
-<a margin="20" href="https://www.jenkins.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/jenkins.png" alt="jenkins"></a>
-<!-- Kibana -->
-<a margin="20" href="https://www.elastic.co/what-is/kibana" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kibana.png" alt="kibana"></a></div>
-<br/>
 
 <div/>
 💾 Databases:
-<br/>
 <br/>
 
 <br/>
 <!-- Redis -->
 <a margin="20" href="https://redis.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/redis.jpeg" alt="redis"></a>
-<!-- Elastic -->
-<a margin="20" href="https://www.elastic.co" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/elastic.png" alt="elastic"></a></div>
 <br/>
 <div/>
 🥅 Testing:
 <br/>
-<br/>
 <!-- RobotFramework -->
 <a margin="20" href="https://robotframework.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/robot.png" alt="robot"></a></div>
-
-<div/>
 <br/>
 💻 IDEs/Editors:
-<br/>
 <br/>
 <!-- Notion -->
 <a margin="20" href="https://www.notion.so/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/notion.png" alt="notion"></a>
@@ -157,13 +143,7 @@
 <!-- Pycharm -->
 <a margin="20" href="https://www.jetbrains.com/pycharm/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/pyc.png" alt="pycharm"></a>
 <!-- Webstorm -->
-<a margin="20" href="https://www.jetbrains.com/webstorm" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/webs.png" alt="webstorm"></a>
-<!-- InteliJ -->
-
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-
-
-
+<a margin="20" href="https://www.c.com/webstorm" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/webs.png" alt="webstorm"></a>
 </div>
 
 ## My Skill Set  
@@ -207,7 +187,6 @@
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://materializecss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="materialize" width="40" height="40"/></a>
 
-
 </div>
 
 </td>
@@ -219,7 +198,7 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
 <a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
 <a href="https://grafana.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana" width="40" height="40"/></a>
-<a href="https://www.elastic.co/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
+<a href="jetbrains/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
 
 
 </div>
