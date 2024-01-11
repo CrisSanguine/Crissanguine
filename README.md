@@ -478,7 +478,7 @@
   <a href="https://www.scipy.org/"> <img src="https://scipy.org/images/logo.svg" width="40" height="40"/> </a>
      <a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/100px-SpaCy_logo.svg.png" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>   
-    <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="pytorch" width="44" height="40"/> </a> 
+    <a href="https://opencv.org/" target="_blank"> <img src="https://opencv1.b-cdn.net/wp-content/uploads/2022/05/logo.png" alt="pytorch" width="44" height="40"/> </a> 
 </p>
 
 <div align="center">
