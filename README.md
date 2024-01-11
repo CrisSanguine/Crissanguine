@@ -27,12 +27,6 @@
   </h4>
 </div>
 
-<div>
-<img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1419377484&format=image"/>
-<img width="45%" src="https://docs.google.com/spreadsheets/d/1MAo2W6sJPdAYMCssEkzFouKKipc3mywcXpGBx-gUfBU/edit?disco=AAABCOBECZ0"/>
-<img width="33%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
-</div>
-
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 🤗to you!  be glad to <strong><i> HELP YOU  </i></strong> !!! to you!🤗  </h1>
 
 <p align="left">
@@ -73,11 +67,13 @@
   </ul>
 </div>
 </p>
-- 📝 I regularly write articles on [blog.aryasoni.com](blog.aryasoni.com)
-- 🔭 I’m currently working on [AI Interview Test](https://github.com/CodeTrophs/AI-Interview-Test)
-- 🌱 I’m currently learning **ML,DL,AI,Docker,Kubernetes**
-- 💼 I’m pursuing a <strong>MSc Computing degree in Management and Finance</strong>.
-
+- 🌱 I’m currently learning: Phyton, GDScript, Godot Engine
+<br>
+- 🔭 I’m currently working: []()
+<br>
+- 📝 I regularly write articles: []()
+<br>
+- 💼 I’m pursuing: <strong></strong>.
 <br>
 
 <h3>
@@ -86,7 +82,7 @@
   </code>
 </h3>
 
- <h3 align="center" >💻 Tech Stack: Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ <h3 align="center" > Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3> 
 
 📋 Languages and Framework:
 <br/>
@@ -332,6 +328,12 @@
 </tr>
 </table>  
 
+💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div>
+<img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1419377484&format=image"/>
+<img width="45%" src="https://docs.google.com/spreadsheets/d/1MAo2W6sJPdAYMCssEkzFouKKipc3mywcXpGBx-gUfBU/edit?disco=AAABCOBECZ0"/>
+<img width="33%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
+</div>
 
 ## 🛠️ My Skills
 -------------------
