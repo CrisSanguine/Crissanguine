@@ -195,6 +195,8 @@
 <a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
 <a href="https://grafana.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana" width="40" height="40"/></a>
 <a href="jetbrains/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40" /></a>
+<a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="40" height="40" /></a>
 
 
 </div>
@@ -220,6 +222,8 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"></a>
 <a href="https://golang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/></a>
+<a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="80" height="40" />
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
 
 
 	
@@ -283,11 +287,16 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visuals width="40" height="40""></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40" /></a>
 <a href="https://www.apachefriends.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/120px-XAMPP_logo.svg.png" alt="XAMPP" width="40" height="40" /></a>
 <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" alt="Hadoop" width="80" height="40" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" alt="Spark" width="80" height="40" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" /></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.spyder-ide.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/120px-Spyder_logo.svg.png" alt="Spyder" width="40" height="40" /></a>
+<a href="https://atom.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/atom-editor.png" alt="Atom" width="44" height="44" /></a>
+<a href="https://www.codeblocks.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/code-blocks.png" alt="Code::Blocks" width="40" height="40" /></a>
+<a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="80" height="40" /></a>
 </div>
 
 </td>
@@ -319,7 +328,8 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.docker.com/" target="_blank"><img  src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-
+<a href="https://bitbucket.org/" target="_blank"><img title="Bitbucket" alt="Bitbucket" src="https://img.icons8.com/color/48/000000/bitbucket.png" height="40" /></a>
+<a href="https://www.atlassian.com/software/bamboo" target="_blank"><img title="Bamboo" alt="Bamboo" src="https://img.icons8.com/color/48/000000/bamboo.png" width="40" height="40" /></a>
 	
 </div>
 
@@ -392,7 +402,6 @@
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
@@ -465,7 +474,6 @@
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
      <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a>
   <a href="https://www.scipy.org/"> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> </a>
      <a href="https://spacy.io/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/699256981287100416/7-7zis8f_400x400.png" alt="pytorch" width="40" height="40"/> </a> 
@@ -476,21 +484,9 @@
    ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
-<a href="https://www.spyder-ide.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/120px-Spyder_logo.svg.png" alt="Spyder" width="40" height="40" /></a>
-<a href="https://atom.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/atom-editor.png" alt="Atom" width="44" height="44" /></a>
-<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40" /></a>
-<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="40" height="40" /></a>
-<a href="https://www.codeblocks.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/code-blocks.png" alt="Code::Blocks" width="40" height="40" /></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40" /></a>
-<a href="https://www.eclipse.org/ide/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="80" height="40" /></a>
 
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
+</a>
 
-
-<a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="80" height="40" /></a>
-<a href="https://bitbucket.org/" target="_blank"><img title="Bitbucket" alt="Bitbucket" src="https://img.icons8.com/color/48/000000/bitbucket.png" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank"><img title="Git" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40" /></a>
-<a href="https://www.atlassian.com/software/bamboo" target="_blank"><img title="Bamboo" alt="Bamboo" src="https://img.icons8.com/color/48/000000/bamboo.png" width="40" height="40" /></a>
 
 </p>
 
