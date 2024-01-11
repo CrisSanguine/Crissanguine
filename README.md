@@ -1,25 +1,19 @@
 <div style="display: flex; gap: 10px; align-items: center;">
     <h4> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Connect with me:  
-<!--    LINKEDIN -->
-    <a href='https://www.linkedin.com/in/cristian-sanguine'> 
-        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-    </a>
-<!--    TWITTER -->
-    <a href='https://www.twitter.com/CrisSanguine'> 
-        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
-    </a>
+<!--  LINKEDIN -->
+<a href='https://www.linkedin.com/in/cristian-sanguine'><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width='20px' align='center'/></a>
+<!--  TWITTER -->
+<a href='https://www.twitter.com/CrisSanguine'><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width='20px' align='center'/></a>
 <!--  GITHUB -->
-    <a href='https://www.github.com/CrisSanguine'> 
-        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-    </a>
-<!--    PORTAFOLIO WEB  -->
-    <!--     <a href='http:///'> 
-        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
-    </a> -->
-<!--      NO SE MEDIUM -->
-    <!--     <a href='https://medium.com/'> 
-        <img width='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>
-    </a> -->
+<a href='https://www.github.com/CrisSanguine'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" width='20px' align='center'/></a>
+<!--  PORTAFOLIO WEB  -->
+<!-- <a href='http:///'><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png" width='20px' align='center'/> </a> -->
+<!--  MEDIUM -->
+<!-- <a href='https://medium.com/'><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width='20px' align='center'/></a> -->
+<!--  FACEBOOK -->    
+<a href="https://fb.com/CrisSanguine" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="20"  align="center" /></a>
+<!--  INSTAGRAM --> 
+<a href="https://www.instagram.com/crissanguine/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" align="center"/></a>	
   </h4>
 </div>
 
@@ -39,11 +33,7 @@
 <a href="https://kaggle.com/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prasannabrabourame" height="30" width="40" /></a>
 
 
-<a href="https://fb.com/CrisSanguine" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="40" width="40" /></a>
 
-<a href="https://www.instagram.com/crissanguine/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="40" width="40" /></a>
-
-<a href="https://medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="Medium" height="40" width="40" /></a>
 
 <a href="https://www.hackerrank.com/prasanna_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasanna_b" height="30" width="40" /></a>
 </p>
@@ -349,7 +339,7 @@
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" alt="Git" width="40" height="40"/></a>
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.docker.com/" target="_blank"><img  src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
