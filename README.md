@@ -82,21 +82,6 @@
   </code>
 </h3>
 
- <h3 align="center" > Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3> 
-
-🥅 Testing:
-<br/>
-<!-- RobotFramework -->
-<a margin="20" href="https://robotframework.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/robot.png" alt="robot"></a></div>
-<br/>
-💻 IDEs/Editors:
-<br/>
-<!-- Notion -->
-<a margin="20" href="https://www.notion.so/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/notion.png" alt="notion"></a>
-<!-- Webstorm -->
-<a margin="20" href="https://www.c.com/webstorm" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/webs.png" alt="webstorm"></a>
-</div>
-
 ## My Skill Set  
 
 ## FrontEnd
@@ -292,6 +277,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/></a>	
 <a href="https://www.canva.com/"> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
+<a href="https://robotframework.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/250px-Robot-framework-logo.png" alt="robotframework"></a></div>
 </div>
 
 </td>
@@ -320,6 +306,7 @@
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="RED HAT openshift" width="40" height="40"></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"></a>
 <a href="https://trello.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"></a>
+<a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" alt="notion" width="40" height="40"></a>
 	
 </div>
 
