@@ -191,8 +191,8 @@
 
 ### Data Analyst  
 <div align="center">  
-<a href="https://docs.google.com/spreadsheets/"><img src="https://icons8.com/icon/i0CWL3PLBTln/google-sheets" alt="Google Sheets" width="40" height="40></a>			
-<a href="https://iconos8.es/icon/117561/microsoft-excel-2019"><img src="https://iconos8.es/icon/117561/microsoft-excel-2019" alt="MS Excel" width="40" height="40></a>
+<a href="https://docs.google.com/spreadsheets/"><img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="Google Sheets" width="40" height="40></a>			
+<a href="https://iconos8.es/icon/117561/microsoft-excel-2019"><img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="MS Excel" width="40" height="40></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
 <a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
 <a href="https://grafana.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana" width="40" height="40"/></a>
