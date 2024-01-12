@@ -1,30 +1,36 @@
 <div style="display: flex; gap: 10px; align-items: center;">
     <h4> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Connect with me:  
-<!--  LINKEDIN -->
+
 <a href='https://www.linkedin.com/in/cristian-sanguine'><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width='20px' align='center'/></a>
-<!--  TWITTER -->
 <a href='https://www.twitter.com/CrisSanguine'><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width='20px' align='center'/></a>
-<!--  GITHUB -->
 <a href='https://www.github.com/CrisSanguine'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" width='20px' align='center'/></a>
-<!--  PORTAFOLIO WEB  -->
-<!-- <a href='http:///'><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png" width='20px' align='center'/> </a> -->
-<!--  MEDIUM -->
-<!-- <a href='https://medium.com/'><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width='20px' align='center'/></a> -->
-<!--  FACEBOOK -->    
+<!-- INICIO COMENTARIO
+<a href='http://'><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png" width='20px' align='center'/></a>
+<a href='https://medium.com/'><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width='20px' align='center'/></a>
 <a href="https://fb.com/CrisSanguine" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="20"  align="center" /></a>
-<!--  INSTAGRAM --> 
 <a href="https://www.instagram.com/crissanguine/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" align="center"/></a>
-<!--  CODEPEN -->     
 <a href="https://codepen.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="20" align="center"/></a>
-<!--  DEV.TO --> 
 <a href="https://dev.to/" target="blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" width="20" align="center"/></a>
-<!--  STACKOVERFLOW -->     
 <a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="20" align="center"/></a>
-<!--  KAGGLE --> 	    
 <a href="https://kaggle.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="20" align="center"/></a>
-<!--  HACKERRANK -->     
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" alt="hackerrank" width="20" align="center"/></a>
+ FIN COMENTARIO -->
+
   </h4>
+<!--  INICIO COMENTARIO (orden de cosas)
+LINKEDIN 
+TWITTER
+ GITHUB
+PORTAFOLIO WEB
+MEDIUM
+FACEBOOK
+INSTAGRAM
+CODEPEN 
+DEV.TO
+STACKOVERFLOW
+KAGGLE
+HACKERRANK 
+	FIN COMENTARIO-->   
 </div>
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 🤗to you!  be glad to <strong><i> HELP YOU  </i></strong> !!! to you!🤗  </h1>
