@@ -86,30 +86,14 @@
 
 📋 Languages and Framework:
 <br/>
-<!-- nestjs -->
-<a margin="20" href="https://nestjs.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/nest.svg" alt="nestjs"></a>
-<!-- C# -->
-<a margin="20" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Csharp.png" alt="c#"></a>
-
-<br/>
 <!-- kotlin -->
 <a margin="20" href="https://kotlinlang.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kotlin.png" alt="kotlin"></a>
-<!-- Shell Script -->
-<a margin="20" href="https://www.shellscript.sh/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/sh.png" alt="sh"></a>
 
 <div/>
-☁️ Cloud:
-<br/>
-<br/>
-<!-- Heroku -->
-<a margin="20" href="https://www.heroku.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/heroku.jpeg" alt="heroku"></a></div>
-<br/>
 ♾️ Tools/DevOps:
 <br/>
 <!-- Terraform -->
 <a margin="20" href="https://www.terraform.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/terra.png" alt="terraform"></a>
-<!-- K8s -->
-<a margin="20" href="https://kubernetes.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/k8s.png" alt="k8s"></a>
 <!-- Openshift -->
 <a margin="20" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/opc.png" alt="openshift"></a>
 <br/>
@@ -132,12 +116,6 @@
 <br/>
 <!-- Notion -->
 <a margin="20" href="https://www.notion.so/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/notion.png" alt="notion"></a>
-<!-- Sublime -->
-<a margin="20" href="https://www.sublimetext.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/sub.jpeg" alt="sublime"></a>
-<!-- Datagrip -->
-<a margin="20" href="https://www.jetbrains.com/datagrip/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/datag.png" alt="datagrip"></a>
-<!-- Pycharm -->
-<a margin="20" href="https://www.jetbrains.com/pycharm/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/pyc.png" alt="pycharm"></a>
 <!-- Webstorm -->
 <a margin="20" href="https://www.c.com/webstorm" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/webs.png" alt="webstorm"></a>
 </div>
@@ -182,6 +160,8 @@
 <a href="https://www.electronjs.org" target="_blank"><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://materializecss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="materialize" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"></a>
+
 
 </div>
 
@@ -189,7 +169,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### Data Analyst  
+### Data Analyst  & Machine Learning
 <div align="center">  
 <a href="https://docs.google.com/spreadsheets/"><img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" alt="Google Sheets" width="40" height="40"></a>
 <a href="https://support.microsoft.com/es-es/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="MS Excel" width="40" height="40"></a>
@@ -233,6 +213,7 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="c & c++" width="44" height="44"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></a>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"></a>
 <a href="https://golang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/></a>
@@ -345,7 +326,9 @@
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://bitbucket.org/" target="_blank"><img title="Bitbucket" alt="Bitbucket" src="https://img.icons8.com/color/48/000000/bitbucket.png" height="40" /></a>
 <a href="https://www.atlassian.com/software/bamboo" target="_blank"><img title="Bamboo" alt="Bamboo" src="https://img.icons8.com/color/48/000000/bamboo.png" width="40" height="40" /></a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://opencv1.b-cdn.net/wp-content/uploads/2022/05/logo.png" alt="opencv" width="44" height="40"/></a> 
+<a href="https://opencv.org/" target="_blank"> <img src="https://opencv1.b-cdn.net/wp-content/uploads/2022/05/logo.png" alt="opencv" width="40" height="40"/></a> 
+<a href="https://www.sublimetext.com/" target="_blank"><img margin="20px" height="20" src="https://www.sublimetext.com/images/logo.svg" alt="sublime" width="40" height="40"></a>
+<a href="https://www.jetbrains.com/datagrip/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" alt="datagrip" width="40" height="40"></a>
 	
 </div>
 
@@ -401,7 +384,6 @@
 &emsp;
 
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
@@ -412,7 +394,7 @@
 ## 🔥 Languages:
 
 <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a>
+    
     <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
 </p>
 
