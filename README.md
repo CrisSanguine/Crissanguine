@@ -78,12 +78,6 @@
 <br>
  FIN COMENTARIO -->
 
-<h3>
-  <code>
-    Preferred Languages
-  </code>
-</h3>
-
 ## My Skill Set  
 
 <div align="center">
@@ -195,8 +189,6 @@
 <a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="80" height="40" />
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
 
-
-	
 </div>
 
 </td>
@@ -331,29 +323,33 @@
 
 <hr>
 
-### 💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 <div>
-<img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1419377484&format=image"/>
 <img width="45%" src="https://docs.google.com/spreadsheets/d/1MAo2W6sJPdAYMCssEkzFouKKipc3mywcXpGBx-gUfBU/edit?disco=AAABCOBECZ0"/>
 <img width="33%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
+</div>
+
+### 📈 Tech Stats & Skills: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+<div>
+<img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1419377484&format=image"/>
 </div>
 
 ## 🛠️ My Skills
 
 ## 🛠️ My Favorite Tools
 
-## ⭐️ Libraries and Frameworks:
-
-## Introduction
+## ⭐️ Introduction
 <code>
 I always look for opportunities to grow, adapting to digital environments, new technologies, and making informed decisions.
 </code>
+<!-- INICIO COMENTARIO
 [🎦 Video - CrisSanguine](https://www.youtube.com)
-
+	FIN COMENTARIO-->
 ## Contact us
 <br>
 
+## ⭐️ GITHUB DETAILS:
 <details>
     
 | ![CrisSanguine's github stats](https://github-readme-stats.vercel.app/api?username=CrisSanguine&show_icons=true&theme=tokyonight) | ![CrisSanguine GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrisSanguine&theme=tokyonight) |
@@ -364,13 +360,11 @@ I always look for opportunities to grow, adapting to digital environments, new t
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 ### Thank you for visiting my profile 🤓 
 
-### Feel free to fork and 🌟 this repo!!
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
 ------
-📈 Stats
+
 ## Sponsors
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
@@ -384,6 +378,5 @@ I always look for opportunities to grow, adapting to digital environments, new t
 
 Credit: [CrisSanguine](https://github.com/CrisSanguine) 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Programmer%20Analyst%20Financial"/>
-
 
 Last edited on: 11/01/2024
