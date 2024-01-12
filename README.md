@@ -387,5 +387,8 @@ I always look for opportunities to grow, adapting to digital environments, new t
 ## Thank you for visiting my profile 🤓
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
-Credit: [CrisSanguine](https://github.com/CrisSanguine) 
+
+
+Credit: CrisSanguine ([GitHub](https://github.com/CrisSanguine))
+
 Last edited on: 11/01/2024
