@@ -84,22 +84,6 @@
 
  <h3 align="center" > Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3> 
 
-📋 Languages and Framework:
-<br/>
-<!-- kotlin -->
-<a margin="20" href="https://kotlinlang.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kotlin.png" alt="kotlin"></a>
-
-<div/>
-
-<div/>
-💾 Databases:
-<br/>
-
-<br/>
-<!-- Redis -->
-<a margin="20" href="https://redis.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/redis.jpeg" alt="redis"></a>
-<br/>
-<div/>
 🥅 Testing:
 <br/>
 <!-- RobotFramework -->
@@ -131,6 +115,7 @@
 <a href="https://sass-lang.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="40" height="40"></a>
+<a href="https://www.tradingview.com/pinescript/" target="_blank"><img src="https://www.tradingview.com/pine-script-docs/en/v5/_images/Pine_Script_logo_text.png" alt="PineScript" width="40" height="40"></a>
 </div>
 
 </td>
@@ -143,6 +128,8 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40" /></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="40" height="40"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="" alt="Next.js" width="40" height="40"></a>
 <a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="40" height="40" /></a>
 <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"></a>
 <a href="https://www.chartjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/graph.png" alt="Chart.js" width="40" height="40" /></a>
@@ -253,6 +240,7 @@
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"></a>
 
 
 </div>
@@ -344,15 +332,7 @@
 </div>
 
 ## 🛠️ My Skills
--------------------
-### Programming languages:
-&emsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-
+------------------
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
 ### Frontend development:
 &emsp;
@@ -360,24 +340,17 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 
 ### Misc tools:
 &emsp;
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 
 ### Services & Frameworks: 
 &emsp;
 ![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
-
-
-### Databases:
-&emsp;
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 
 ## 🛠️ My Favorite Tools
