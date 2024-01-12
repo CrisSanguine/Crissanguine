@@ -328,37 +328,11 @@
 
   ## ⭐️ Libraries and Frameworks:
 
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h3>
-
 ## Introduction
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+I always look for opportunities to grow, adapting to digital environments, new technologies, and making informed decisions.
  
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
-
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
-
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
-
-
+[🎦 Video - CrisSanguine](https://www.youtube.com)
 
 ## Contact us
 <br>
@@ -388,7 +362,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <p>
   <h3 align="center">Support:</h3>
   <p>
-      <p><a href="https://www.buymeacoffee.com/prasana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prasana" /></a><a href="https://ko-fi.com/prasannabrabourame"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prasannabrabourame" /></a></p>
+      <p><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CrisSanguine" /></a><a href="https://ko-fi.com/"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="" /></a></p>
 </p>
 
 Credit: [CrisSanguine](https://github.com/CrisSanguine) 
