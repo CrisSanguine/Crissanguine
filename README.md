@@ -220,8 +220,8 @@
 <a href="https://graphql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="40" height="40"/></a>
 <a href="https://gulpjs.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/100px-Gulp.js_Logo.svg.png" alt="gulp" width="40" height="40"/></a> <!-- too testing -->
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-
-
+<a href="https://auth0.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_de_Auth0.svg" alt="Auth0" width="40" height="40"></a>
+<a href="https://www.serverless.com/" target="_blank"><img src="https://assets-global.website-files.com/60acbb950c4d66d0ab3e2007/60d841cfd24a7264a80c75fc_Serverless_logo.png" alt="Serverless" width="40" height="40"></a>
 	
 </div>
 
@@ -242,6 +242,8 @@
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
 <a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"></a>
+<a href="https://hasura.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Hasura-icon-primary.svg" alt="Hasura" width="40" height="40"></a>
+
 
 
 </div>
@@ -310,7 +312,7 @@
 <a href="https://bitbucket.org/" target="_blank"><img title="Bitbucket" alt="Bitbucket" src="https://img.icons8.com/color/48/000000/bitbucket.png" height="40" /></a>
 <a href="https://www.atlassian.com/software/bamboo" target="_blank"><img title="Bamboo" alt="Bamboo" src="https://img.icons8.com/color/48/000000/bamboo.png" width="40" height="40" /></a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://opencv1.b-cdn.net/wp-content/uploads/2022/05/logo.png" alt="opencv" width="40" height="40"/></a> 
-<a href="https://www.sublimetext.com/" target="_blank"><img margin="20px" height="20" src="https://www.sublimetext.com/images/logo.svg" alt="sublime" width="40" height="40"></a>
+<a href="https://www.sublimetext.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" alt="sublime" width="40" height="40"></a>
 <a href="https://www.jetbrains.com/datagrip/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" alt="datagrip" width="40" height="40"></a>
 <a href="https://github.com/prometheus/prometheus/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"></a>
 <a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" height="40"></a>
@@ -334,15 +336,6 @@
 </div>
 
 ## 🛠️ My Skills
-
-### Frontend development:
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-
-### Misc tools:
-&emsp;
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 
 ### Services & Frameworks: 
 &emsp;
