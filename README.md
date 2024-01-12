@@ -277,7 +277,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/></a>	
 <a href="https://www.canva.com/"> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
-<a href="https://robotframework.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/250px-Robot-framework-logo.png" alt="robotframework"></a></div>
+<a href="https://robotframework.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/250px-Robot-framework-logo.png" alt="robotframework" width="40" height="40"></a></div>
 </div>
 
 </td>
@@ -324,21 +324,7 @@
 
 ## 🛠️ My Skills
 
-### Services & Frameworks: 
-&emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
-
-
 ## 🛠️ My Favorite Tools
-
-## 🔥 Languages:
-
-<p align="left"> 
-    
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
-</p>
 
   ## ⭐️ Libraries and Frameworks:
 
