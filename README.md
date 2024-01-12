@@ -345,9 +345,12 @@ HACKERRANK
 ## 🛠️ My Favorite Tools
 
 ## ⭐️ Introduction
+<div align="center">
 <code>
 I always look for opportunities to grow, adapting to digital environments, new technologies, and making informed decisions.
 </code>
+</div>
+
 <!-- INICIO COMENTARIO
 [🎦 Video - CrisSanguine](https://www.youtube.com)
 	FIN COMENTARIO-->
