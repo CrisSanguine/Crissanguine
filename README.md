@@ -69,12 +69,14 @@
 </p>
 - 🌱 I’m currently learning: Phyton, GDScript, Godot Engine
 <br>
+<!-- INICIO COMENTARIO
 - 🔭 I’m currently working: []()
 <br>
 - 📝 I regularly write articles: []()
 <br>
 - 💼 I’m pursuing: <strong></strong>.
 <br>
+ FIN COMENTARIO -->
 
 <h3>
   <code>
@@ -84,7 +86,11 @@
 
 ## My Skill Set  
 
+<div align="center">
+
 ### FrontEnd
+</div>
+
 <table>
 <tr>
 
@@ -164,9 +170,12 @@
 
 </tr>
 </table>
-<hr>
+
+<div align="center">
 
 ### BackEnd
+</div>
+
 <table>
 <tr>
 
@@ -237,9 +246,13 @@
 
 </tr>
 </table>  
-<hr>
+
+<div align="center">
 
 ### Others
+</div>
+
+
 <table>
 <tr>
 
@@ -266,7 +279,8 @@
 </td>
 
 <td valign="top" width="33%" min-width="33%">
-	
+
+ 
 #### Testing & Multimedia Design and Development
 <div align="center">  
 <a href="https://jasmine.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a>
@@ -315,7 +329,10 @@
 </tr>
 </table>  
 
-💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<hr>
+
+### 💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 <div>
 <img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1419377484&format=image"/>
 <img width="45%" src="https://docs.google.com/spreadsheets/d/1MAo2W6sJPdAYMCssEkzFouKKipc3mywcXpGBx-gUfBU/edit?disco=AAABCOBECZ0"/>
@@ -326,12 +343,12 @@
 
 ## 🛠️ My Favorite Tools
 
-  ## ⭐️ Libraries and Frameworks:
+## ⭐️ Libraries and Frameworks:
 
 ## Introduction
-
+<code>
 I always look for opportunities to grow, adapting to digital environments, new technologies, and making informed decisions.
- 
+</code>
 [🎦 Video - CrisSanguine](https://www.youtube.com)
 
 ## Contact us
