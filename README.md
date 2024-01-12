@@ -380,7 +380,6 @@ I always look for opportunities to grow, adapting to digital environments, new t
       <p><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CrisSanguine" /></a><a href="https://ko-fi.com/"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="" /></a></p>
 </p>
 
-Credit: [CrisSanguine](https://github.com/CrisSanguine) 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Programmer%20Analyst%20Financial"/>
 
 <div align="center">
@@ -388,5 +387,5 @@ Credit: [CrisSanguine](https://github.com/CrisSanguine)
 ## Thank you for visiting my profile 🤓
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
-
+Credit: [CrisSanguine](https://github.com/CrisSanguine) 
 Last edited on: 11/01/2024
