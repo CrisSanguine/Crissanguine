@@ -90,13 +90,6 @@
 <a margin="20" href="https://kotlinlang.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kotlin.png" alt="kotlin"></a>
 
 <div/>
-♾️ Tools/DevOps:
-<br/>
-<!-- Terraform -->
-<a margin="20" href="https://www.terraform.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/terra.png" alt="terraform"></a>
-<!-- Openshift -->
-<a margin="20" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/opc.png" alt="openshift"></a>
-<br/>
 
 <div/>
 💾 Databases:
@@ -137,7 +130,7 @@
 <a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="40" height="40" /></a>
 <a href="https://sass-lang.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/></a>
-
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="40" height="40"></a>
 </div>
 
 </td>
@@ -329,6 +322,10 @@
 <a href="https://opencv.org/" target="_blank"> <img src="https://opencv1.b-cdn.net/wp-content/uploads/2022/05/logo.png" alt="opencv" width="40" height="40"/></a> 
 <a href="https://www.sublimetext.com/" target="_blank"><img margin="20px" height="20" src="https://www.sublimetext.com/images/logo.svg" alt="sublime" width="40" height="40"></a>
 <a href="https://www.jetbrains.com/datagrip/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" alt="datagrip" width="40" height="40"></a>
+<a href="https://github.com/prometheus/prometheus/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"></a>
+<a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" height="40"></a>
+<a href="https://www.terraform.io" target="_blank"><img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.24/1697620727093/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform" width="40" height="40"></a>
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="RED HAT openshift" width="40" height="40"></a>
 	
 </div>
 
@@ -380,14 +377,6 @@
 &emsp;
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
-### SRE & DevOps:
-&emsp;
-
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
 ## 🛠️ My Favorite Tools
 
