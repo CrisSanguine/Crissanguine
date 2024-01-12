@@ -5,15 +5,18 @@
 <a href='https://www.github.com/CrisSanguine'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" width='20px' align='center'/></a>
 <!-- INICIO COMENTARIO
 <a href='http://'><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png" width='20px' align='center'/></a>
-<a href='https://medium.com/'><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width='20px' align='center'/></a>
 <a href="https://fb.com/CrisSanguine" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="20"  align="center" /></a>
 <a href="https://www.instagram.com/crissanguine/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" align="center"/></a>
-<a href="https://codepen.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="20" align="center"/></a>
-<a href="https://dev.to/" target="blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" width="20" align="center"/></a>
 <a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="20" align="center"/></a>
 <a href="https://kaggle.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="20" align="center"/></a>
+<a href='https://medium.com/'><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width='20px' align='center'/></a>
+<a href="https://codepen.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="20" align="center"/></a>
+<a href="https://dev.to/" target="blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" width="20" align="center"/></a>
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" alt="hackerrank" width="20" align="center"/></a>
+<a href="https://es.fiverr.com/?source=top_nav" target="blank"><img align="center" src="https://files.jotform.com/jotformapps/0d51c1a6dc78d20137f6ac7d98eca9f9.png" alt="fiveer" width="20" align="center"/></a>
  FIN COMENTARIO -->
+
+ https://es.fiverr.com/?source=top_nav
 
   </h4>
 <!--  INICIO COMENTARIO (orden de cosas)
@@ -21,14 +24,15 @@ LINKEDIN
 TWITTER
  GITHUB
 PORTAFOLIO WEB
-MEDIUM
 FACEBOOK
 INSTAGRAM
-CODEPEN 
-DEV.TO
 STACKOVERFLOW
 KAGGLE
+MEDIUM
+CODEPEN 
+DEV.TO
 HACKERRANK 
+FIVEER
 	FIN COMENTARIO-->   
 </div>
 
