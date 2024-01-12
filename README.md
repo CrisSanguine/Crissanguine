@@ -191,8 +191,8 @@
 
 ### Data Analyst  
 <div align="center">  
-<a href="https://docs.google.com/spreadsheets/"><img src="https://img.icons8.com/office/48/000000/google-sheets.png" alt="Google Sheets" width="40" height="40></a>			
-<a href="https://support.microsoft.com/es-es/excel"><img src="https://img.icons8.com/office/48/000000/microsoft-excel.png" alt="MS Excel" width="40" height="40></a>
+<a href="https://docs.google.com/spreadsheets/"><img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" alt="Google Sheets" width="40" height="40"></a>
+<a href="https://support.microsoft.com/es-es/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="MS Excel" width="40" height="40"></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
 <a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
 <a href="https://grafana.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana" width="40" height="40"/></a>
