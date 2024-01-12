@@ -129,7 +129,8 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40" /></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="40" height="40"></a>
-<a href="https://nextjs.org/" target="_blank"><img src="" alt="Next.js" width="40" height="40"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="Next.js" width="40" height="40"></a>
+<a href="https://chakra-ui.com/" target="_blank"><img src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" alt="Chakra UI" width="40" height="40"></a>
 <a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="40" height="40" /></a>
 <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"></a>
 <a href="https://www.chartjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/graph.png" alt="Chart.js" width="40" height="40" /></a>
@@ -285,6 +286,7 @@
 <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
 <a href="https://mochajs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank"><img src="https://karma-runner.github.io/assets/img/banner.png" alt="karma" width="80" height="40"/></a> <!-- rel: angular.js -->
+<a href="https://www.cypress.io/" target="_blank"><img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" alt="Cypress" width="40" height="40"></a>
 <a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/></a>	
 <a href="https://www.canva.com/"> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
@@ -332,18 +334,14 @@
 </div>
 
 ## 🛠️ My Skills
-------------------
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
-### Frontend development:
-&emsp;
 
+### Frontend development:
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
 
 ### Misc tools:
 &emsp;
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 
 ### Services & Frameworks: 
@@ -428,11 +426,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 </p>
 
 Credit: [CrisSanguine](https://github.com/CrisSanguine) 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Prasanna%20Brabourame"/>
-
-Last edited on: 15/12/2023
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Programmer%20Analyst%20Financial"/>
 
 
 Last edited on: 15/12/2023
-
