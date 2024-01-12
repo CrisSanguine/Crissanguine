@@ -328,14 +328,14 @@ HACKERRANK
 
 <hr>
 
-### 💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+### 💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" height="35">
 
 <div>
 <img width="45%" src="https://docs.google.com/spreadsheets/d/1MAo2W6sJPdAYMCssEkzFouKKipc3mywcXpGBx-gUfBU/edit?disco=AAABCOBECZ0"/>
 <img width="33%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
 </div>
 
-### 📈 Tech Stats & Skills: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+### 📈 Tech Stats & Skills: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="35">
 <div>
 <img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1419377484&format=image"/>
 </div>
@@ -351,7 +351,7 @@ I always look for opportunities to grow, adapting to digital environments, new t
 </code>
 </div>
 
-<!-- INICIO COMENTARIO
+<!-- 	INICIO COMENTARIO
 [🎦 Video - CrisSanguine](https://www.youtube.com)
 	FIN COMENTARIO-->
 ## Contact us
@@ -366,16 +366,12 @@ I always look for opportunities to grow, adapting to digital environments, new t
 
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-### Thank you for visiting my profile 🤓 
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-
 ------
 
 ## Sponsors
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
 <!-- SUPPORT -->
 <hr>
 <p>
@@ -386,5 +382,11 @@ I always look for opportunities to grow, adapting to digital environments, new t
 
 Credit: [CrisSanguine](https://github.com/CrisSanguine) 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Programmer%20Analyst%20Financial"/>
+
+<div align="center">
+
+## Thank you for visiting my profile 🤓
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
 
 Last edited on: 11/01/2024
