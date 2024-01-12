@@ -185,6 +185,7 @@ HACKERRANK
 <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="40" height="30" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
+<a href="https://gdscript.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="gdscript" width="40" height="40" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="c & c++" width="44" height="44"/> </a>
@@ -288,8 +289,16 @@ HACKERRANK
 <a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/></a>	
 <a href="https://www.canva.com/"> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
-<a href="https://robotframework.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/250px-Robot-framework-logo.png" alt="robotframework" width="40" height="40"></a></div>
+<a href="https://robotframework.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/250px-Robot-framework-logo.png" alt="robotframework" width="40" height="40"></a>
+<a href="https://godotengine.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" alt="godotengine" width="40" height="40"></a>
+<a href="https://www.renpy.org/" target="_blank"><img src="https://www.renpy.org/static/index-logo.png" alt="renpy" width="40" height="40"></a>
+<a href="https://www.blender.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"></a>
+<a href="https://unity.com/" target="_blank"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/59311eb2aa91009ac2a4eac41a6b4ae0e26ccda2-22x24.svg" alt="unity3D" width="40" height="40"></a>
+
+
 </div>
+
+ 
 
 </td>
 
