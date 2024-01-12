@@ -1,6 +1,5 @@
 <div style="display: flex; gap: 10px; align-items: center;">
     <h4> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Connect with me:  
-
 <a href='https://www.linkedin.com/in/cristian-sanguine'><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width='20px' align='center'/></a>
 <a href='https://www.twitter.com/CrisSanguine'><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width='20px' align='center'/></a>
 <a href='https://www.github.com/CrisSanguine'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" width='20px' align='center'/></a>
