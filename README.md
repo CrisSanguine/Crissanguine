@@ -326,6 +326,8 @@
 <a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" height="40"></a>
 <a href="https://www.terraform.io" target="_blank"><img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.24/1697620727093/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform" width="40" height="40"></a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="RED HAT openshift" width="40" height="40"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"></a>
+<a href="https://trello.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"></a>
 	
 </div>
 
