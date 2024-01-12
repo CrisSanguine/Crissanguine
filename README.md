@@ -84,13 +84,13 @@
 
 ## My Skill Set  
 
-## FrontEnd
+### FrontEnd
 <table>
 <tr>
 
 <td valign="top" width="33%" min-width="33%">
 
-### Lenguajes FrontEnd
+#### Lenguajes FrontEnd
 <div align="center">  
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40" /></a>  
@@ -107,7 +107,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Frameworks & Libraries
+#### Frameworks & Libraries
 <div align="center">  
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
@@ -135,7 +135,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### Data Analyst  & Machine Learning
+#### Data Analyst  & Machine Learning
 <div align="center">  
 <a href="https://docs.google.com/spreadsheets/"><img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" alt="Google Sheets" width="40" height="40"></a>
 <a href="https://support.microsoft.com/es-es/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="MS Excel" width="40" height="40"></a>
@@ -166,13 +166,13 @@
 </table>
 <hr>
 
-## BackEnd
+### BackEnd
 <table>
 <tr>
 
 <td valign="top" width="33%" min-width="33%">
 
-### Lenguajes BackEnd
+#### Lenguajes BackEnd
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="40" height="30" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></a>
@@ -194,7 +194,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Frameworks & Libraries
+#### Frameworks & Libraries
 <div align="center">
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"></a>
@@ -214,7 +214,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### Databases & Cloud Hosting
+#### Databases & Cloud Hosting
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="40" height="40" /></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="80" height="40"></a>
@@ -239,13 +239,13 @@
 </table>  
 <hr>
 
-## Others
+### Others
 <table>
 <tr>
 
 <td valign="top" width="33%" min-width="33%">
 
-### IDEs/Editors
+#### IDEs/Editors
 <div align="center">  
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visuals width="40" height="40""></a>
@@ -267,7 +267,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 	
-### Testing & Multimedia Design and Development
+#### Testing & Multimedia Design and Development
 <div align="center">  
 <a href="https://jasmine.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a>
 <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
@@ -284,7 +284,7 @@
 
 <td valign="top" width="33%" min-width="33%">
 
-### DevOps
+#### DevOps
 <div align="center">  
 <!-- Windows -->
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/></a>
