@@ -145,16 +145,37 @@ PineScript
 <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"></a>
 <a href="https://www.chartjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/graph.png" alt="Chart.js" width="40" height="40" /></a>
 <a href="https://canvasjs.com" target="_blank"><img src="https://photos.wellfound.com/startups/i/350785-7754d90243b95a0ee539a25ad27c6cb5-medium_jpg.jpg?buster=1527684712" alt="canvasjs" width="40" height="40"/></a>
+
+<!--  INICIO COMENTARIO
 <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" width="40" height="40" /></a>
 <a href="https://backbonejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-icon.svg" alt="backbonejs" width="40" height="40"/></a>
 <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
 <a href="https://www.electronjs.org" target="_blank"><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://materializecss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="materialize" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"></a>
-
+         FIN COMENTARIO -->  
 
 </div>
+
+<!--  INICIO COMENTARIO (orden de cosas)
+Bootstrap
+Tailwind
+React
+React Native
+Redux
+Next.js
+Chakra UI
+Material UI
+Angular
+Chart.js
+CanvasJS
+jQuery
+Backbone.js
+Babel
+Electron
+Flutter
+Materialize
+	FIN COMENTARIO -->  
 
 </td>
 
@@ -162,28 +183,50 @@ PineScript
 
 #### Data Analyst  & Machine Learning
 <div align="center">  
+<a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="40" height="40" /></a>
 <a href="https://docs.google.com/spreadsheets/"><img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" alt="Google Sheets" width="40" height="40"></a>
 <a href="https://support.microsoft.com/es-es/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="MS Excel" width="40" height="40"></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
 <a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
-<a href="https://grafana.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana" width="40" height="40"/></a>
-<a href="jetbrains/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40" /></a>
-<a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="40" height="40" /></a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="44" height="44" / > </a>
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="44" height="44"/> </a> 
-<a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="anaconda" width="48" height="48" /> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="44" height="44"/> </a> 
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40" / > </a>
+<a href="https://grafana.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana" width="40" height="40"/></a>
+<a href="https://www.elastic.co/es/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="anaconda" width="40" height="40" /> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="pandas" width="44" height="44"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.scipy.org/"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
 <a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/100px-SpaCy_logo.svg.png" alt="spacy" width="40" height="40"/> </a> 
 <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
-<a href="https://colab.google"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" alt="Colab-Google" width="40" height="40"></a>
 
 </div>
+
+<!--  INICIO COMENTARIO (orden de cosas)
+Google Colaboratory
+Google Sheets
+MS Excel
+Power BI
+Tableau
+Jupyter
+Matplotlib
+Seaborn
+Grafana
+Kibana
+TensorFlow
+NumPy
+Anaconda
+Scikit-Learn
+PyTorch
+Pandas
+SciPy
+Spacy
+Keras
+	FIN COMENTARIO -->  
+
 
 </td>
 
@@ -234,6 +277,7 @@ PineScript
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://auth0.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_de_Auth0.svg" alt="Auth0" width="40" height="40"></a>
 <a href="https://www.serverless.com/" target="_blank"><img src="https://assets-global.website-files.com/60acbb950c4d66d0ab3e2007/60d841cfd24a7264a80c75fc_Serverless_logo.png" alt="Serverless" width="40" height="40"></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"></a>
 	
 </div>
 
