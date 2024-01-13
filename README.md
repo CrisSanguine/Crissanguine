@@ -326,13 +326,13 @@ NestJS
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="40" height="40" /></a>
-<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="80" height="40"></a>
-<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>   
+<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/></a>  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="80" height="40"/></a>
 <!--  INICIO COMENTARIO
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40" /></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="Mariadb" width="80" height="40></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="40" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="40" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
 <a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/></a>
 <a href="https://hasura.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Hasura-icon-primary.svg" alt="Hasura" width="40" height="40"></a>
