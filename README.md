@@ -243,7 +243,7 @@ keras
 <table>
 <tr>
 
-<td valign="top" width="33%" min-width="33%">
+<td valign="top" width="400px" min-width="150px">
 
 #### Lenguajes BackEnd
 <div align="center">  
@@ -284,7 +284,7 @@ Scala
 
 </td>
 
-<td valign="top" width="33%" min-width="33%">
+<td valign="top" width="400px" min-width="150px">
 	
 #### Frameworks & Libraries
 <div align="center">
@@ -321,7 +321,7 @@ NestJS
 
 </td>
 
-<td valign="top" width="33%" min-width="33%">
+<td valign="top" width="400px" min-width="150px">
 
 #### Databases & Cloud Hosting
 <div align="center">
