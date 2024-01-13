@@ -524,15 +524,21 @@ Red Hat OpenShift
 
 ### 💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" height="35">
 
-<div>
-<img width="45%" src="https://docs.google.com/spreadsheets/d/1MAo2W6sJPdAYMCssEkzFouKKipc3mywcXpGBx-gUfBU/edit?disco=AAABCOBECZ0"/>
-<img width="33%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
+
+
+<div align="center">	
+	
+[VER GRÁFICO INTERACTIVO](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=155453603&format=interactive)
+<img width="891" height="628" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=155453603&amp;format=image"></img>
 </div>
+
+
 
 ### 📈  Life & Transferable Skills: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="35">
 <details>
-<div>
+<div align="center">
 <img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1419377484&format=image"/>
+<img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1015832688&format=image""/>
 </div>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
