@@ -87,7 +87,7 @@ FIVEER
 <br>
  FIN COMENTARIO -->
 
-## My Skill Set  
+## 🛠️ IT SKILLS:
 
 <div align="center">
 
@@ -181,7 +181,7 @@ Materialize
 
 <td valign="top" width="33%" min-width="33%">
 
-#### Data Analyst  & Machine Learning
+#### Data Analyst & Machine Learning
 <div align="center">  
 <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google-Colab" width="40" height="40" /></a>
 <a href="https://docs.google.com/spreadsheets/"><img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" alt="Google Sheets" width="40" height="40"></a>
@@ -333,7 +333,7 @@ NestJS
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="80" height="40"/></a>
 
 <!--  INICIO COMENTARIO
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="Mariadb" width="80" height="40" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="40" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
@@ -528,17 +528,13 @@ Red Hat OpenShift
 <img width="33%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1517957444&format=image"/>
 </div>
 
-### 📈 Tech Stats & Skills: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="35">
+### 📈  Life & Transferable Skills: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="35">
 <details>
 <div>
 <img width="45%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1qlNCKG8yX-M8E5Ea_EQcVBkmzRKZnnSj8QhU5y_XH4jkCp9DLSUzZOq_Mkll2x6GngdJozlODXQX/pubchart?oid=1419377484&format=image"/>
 </div>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
-## 🛠️ My Skills
-
-## 🛠️ My Favorite Tools
 
 ## ⭐️ Introduction
 <div align="center">
