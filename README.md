@@ -248,7 +248,6 @@ keras
 #### Lenguajes BackEnd
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="40" height="30" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
 <a href="https://gdscript.com" target="_blank"><img src="https://docs.godotengine.org/es/3.5/_static/docs_logo.png" alt="gdscript" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40" /> </a>
@@ -268,7 +267,7 @@ FIN COMENTARIO -->
 
 <!--  INICIO COMENTARIO (orden de cosas)
 PHP
-Node.js
+Spring Boot
 Python
 gdscript
 C#
@@ -289,6 +288,7 @@ Scala
 #### Frameworks & Libraries
 <div align="center">
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40" /></a>
 <a href="https://codeigniter.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/a/ac/Codeigniter.png" alt="CodeIgniter" width="40" height="40" /></a>
@@ -307,6 +307,7 @@ Scala
 
 <!--  INICIO COMENTARIO (orden de cosas)
 Express.js
+Node.js
 Spring Boot
 Laravel
 CodeIgniter
@@ -347,9 +348,9 @@ NestJS
 Google Cloud
 Firebase
 Redis
+PostgreSQL
 MySQL
 SQLite
-PostgreSQL
 MongoDB
 Mariadb
 AWS
@@ -403,10 +404,10 @@ Visual Studio
 .NET
 PhpStorm
 XAMPP
+Postman
 Hadoop
 Spark
 Kafka
-Postman
 Spyder
 Atom
 Code::Blocks
