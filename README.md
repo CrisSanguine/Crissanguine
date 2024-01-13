@@ -376,13 +376,15 @@ Hasura
 
 #### IDEs/Editors
 <div align="center">  
+<a href="https://www.sublimetext.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" alt="sublimeText" width="40" height="40"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visuals width="40" height="40""></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.apachefriends.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/120px-XAMPP_logo.svg.png" alt="XAMPP" width="40" height="40" /></a>
-	<!--  INICIO COMENTARIO
+	
+<!--  INICIO COMENTARIO
 <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" alt="Hadoop" width="80" height="40" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" alt="Spark" width="80" height="40" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" /></a>
@@ -394,8 +396,8 @@ Hasura
  
 </div>
 
-
 <!--  INICIO COMENTARIO (orden de cosas)
+sublimeText
 Visual Studio Code
 Visual Studio
 .NET
@@ -426,11 +428,14 @@ Eclipse
 <a href="https://www.renpy.org/" target="_blank"><img src="https://www.renpy.org/static/index-logo.png" alt="renpy" width="40" height="40"></a>
 <a href="https://www.selenium.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png?20200511151950" alt="Selenium" width="40" height="40"/></a>
 <a href="https://jmeter.apache.org/" target="_blank"><img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="Selenium" width="40" height="40"/></a>
+	
+<!--  INICIO COMENTARIO
 <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
-	<!--  INICIO COMENTARIO
 <a href="https://jasmine.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a>
 <a href="https://mochajs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank"><img src="https://karma-runner.github.io/assets/img/banner.png" alt="karma" width="80" height="40"/></a> 
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/bamboo" target="_blank"><img src="https://img.icons8.com/color/48/000000/bamboo.png" alt="Bamboo" width="40" height="40" /></a>
 <a href="https://robotframework.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/250px-Robot-framework-logo.png" alt="robotframework" width="40" height="40"></a>
 <a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" alt="Cypress" width="40" height="40"></a>
@@ -451,6 +456,8 @@ Jest: relacionado con React
 Jasmine: relacionado con ANGULAR 
 Mocha: relacionado con NODE
 Karma: relacionado con ANGULAR y con jasmine 
+Jenkins
+Bamboo
 Robot Framework
 Nginx
 Cypress
@@ -469,23 +476,43 @@ Cypress
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/console.png" alt="Bash" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" alt="Git" width="40" height="40"/></a>
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.docker.com/" target="_blank"><img  src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" alt="notion" width="40" height="40"></a>
+<a href="https://trello.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"></a>
+
+<!--  INICIO COMENTARIO
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
 <a href="https://bitbucket.org/" target="_blank"><img title="Bitbucket" alt="Bitbucket" src="https://img.icons8.com/color/48/000000/bitbucket.png" height="40" /></a>
-<a href="https://www.atlassian.com/software/bamboo" target="_blank"><img title="Bamboo" alt="Bamboo" src="https://img.icons8.com/color/48/000000/bamboo.png" width="40" height="40" /></a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://opencv1.b-cdn.net/wp-content/uploads/2022/05/logo.png" alt="opencv" width="40" height="40"/></a> 
-<a href="https://www.sublimetext.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" alt="sublime" width="40" height="40"></a>
 <a href="https://www.jetbrains.com/datagrip/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" alt="datagrip" width="40" height="40"></a>
 <a href="https://github.com/prometheus/prometheus/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"></a>
 <a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" height="40"></a>
 <a href="https://www.terraform.io" target="_blank"><img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.24/1697620727093/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform" width="40" height="40"></a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="RED HAT openshift" width="40" height="40"></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"></a>
-<a href="https://trello.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"></a>
-<a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" alt="notion" width="40" height="40"></a>
+FIN COMENTARIO --> 
 	
 </div>
+
+<!--  INICIO COMENTARIO (orden de cosas)
+Windows
+Linux
+Bash
+Git
+GitLab
+Git
+Notion
+Trello
+JIRA
+Docker
+Bitbucket
+OpenCV
+DataGrip
+Prometheus
+Puppeteer
+Terraform
+Red Hat OpenShift
+	FIN COMENTARIO -->  
 
 </td>
 
