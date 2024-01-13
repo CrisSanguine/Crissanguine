@@ -403,8 +403,8 @@ Visual Studio Code
 Visual Studio
 .NET
 PhpStorm
-XAMPP
 Postman
+XAMPP
 Hadoop
 Spark
 Kafka
@@ -499,7 +499,7 @@ FIN COMENTARIO -->
 Windows
 Linux
 Bash
-Git
+GitHub
 GitLab
 Git
 Notion
