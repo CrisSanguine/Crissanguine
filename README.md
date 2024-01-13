@@ -1,13 +1,14 @@
 <div style="display: flex; gap: 10px; align-items: center;">
-    <h4> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Connect with me:  
+<h4>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Connect with me:  
 <a href='https://www.linkedin.com/in/cristian-sanguine'><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width='20px' align='center'/></a>
 <a href='https://www.twitter.com/CrisSanguine'><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width='20px' align='center'/></a>
 <a href='https://www.github.com/CrisSanguine'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" width='20px' align='center'/></a>
 <!-- INICIO COMENTARIO
 <a href='http://'><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png" width='20px' align='center'/></a>
-<a href="https://fb.com/CrisSanguine" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="20"  align="center" /></a>
-<a href="https://www.instagram.com/crissanguine/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" align="center"/></a>
-<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="20" align="center"/></a>
+<a href="https://fb.com/?????" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="20"  align="center" /></a>
+<a href="https://www.instagram.com/?????/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" align="center"/></a>
+<a href="https://stackoverflow.com/users/????" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="20" align="center"/></a>
 <a href="https://kaggle.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="20" align="center"/></a>
 <a href='https://medium.com/'><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width='20px' align='center'/></a>
 <a href="https://codepen.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="20" align="center"/></a>
@@ -15,10 +16,9 @@
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" alt="hackerrank" width="20" align="center"/></a>
 <a href="https://es.fiverr.com/?source=top_nav" target="blank"><img align="center" src="https://files.jotform.com/jotformapps/0d51c1a6dc78d20137f6ac7d98eca9f9.png" alt="fiveer" width="20" align="center"/></a>
  FIN COMENTARIO -->
-
- https://es.fiverr.com/?source=top_nav
-
-  </h4>
+</h4>
+</div>
+	
 <!--  INICIO COMENTARIO (orden de cosas)
 LINKEDIN 
 TWITTER
@@ -34,7 +34,7 @@ DEV.TO
 HACKERRANK 
 FIVEER
 	FIN COMENTARIO-->   
-</div>
+
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 🤗to you!  be glad to <strong><i> HELP YOU  </i></strong> !!! to you!🤗  </h1>
 
@@ -101,16 +101,32 @@ FIVEER
 
 #### Lenguajes FrontEnd
 <div align="center">  
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40" /></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/></a>  
+	
+<!-- INICIO COMENTARIO
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40" /></a>
-<a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="40" height="40" /></a>
 <a href="https://sass-lang.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="40" height="40"></a>
 <a href="https://www.tradingview.com/pinescript/" target="_blank"><img src="https://www.tradingview.com/pine-script-docs/en/v5/_images/Pine_Script_logo_text.png" alt="PineScript" width="40" height="40"></a>
+	FIN COMENTARIO-->  
+
 </div>
+
+<!--  INICIO COMENTARIO (orden de cosas)
+WordPress
+HTML5
+CSS3
+JavaScript
+TypeScript
+Sass
+Arduino
+Kotlin
+PineScript
+	FIN COMENTARIO -->   
 
 </td>
 
@@ -189,7 +205,7 @@ FIVEER
 <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="40" height="30" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
-<a href="https://gdscript.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="gdscript" width="40" height="40" /></a>
+<a href="https://gdscript.com" target="_blank"><img src="https://docs.godotengine.org/es/3.5/_static/docs_logo.png" alt="gdscript" width="40" height="40" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="c & c++" width="44" height="44"/> </a>
