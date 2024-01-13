@@ -192,6 +192,7 @@ Materialize
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40" / > </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/> </a>
+
 <!--  INICIO COMENTARIO
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="pandas" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>	
@@ -228,8 +229,7 @@ Kibana
 Anaconda
 keras
 	FIN COMENTARIO -->  
-
-
+ 
 </td>
 
 </tr>
@@ -251,7 +251,8 @@ keras
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
 <a href="https://gdscript.com" target="_blank"><img src="https://docs.godotengine.org/es/3.5/_static/docs_logo.png" alt="gdscript" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40" /> </a>
+
 <!--  INICIO COMENTARIO
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="c & c++" width="44" height="44"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></a>
@@ -291,6 +292,7 @@ Scala
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40" /></a>
 <a href="https://codeigniter.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/a/ac/Codeigniter.png" alt="CodeIgniter" width="40" height="40" /></a>
+
 <!--  INICIO COMENTARIO
 <a href="https://palletsprojects.com/p/flask/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/></a>
@@ -322,21 +324,22 @@ NestJS
 <td valign="top" width="33%" min-width="33%">
 
 #### Databases & Cloud Hosting
-<div align="center">  
+<div align="center">
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"></a>
-<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/></a>  
+<a href="https://postgres.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="80" height="40"/></a>
+
 <!--  INICIO COMENTARIO
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40" /></a>
-<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="Mariadb" width="80" height="40></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="Mariadb" width="80" height="40" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="40" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
 <a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/></a>
-<a href="https://hasura.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Hasura-icon-primary.svg" alt="Hasura" width="40" height="40"></a>
-	FIN COMENTARIO -->  
+<a href="https://hasura.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Hasura-icon-primary.svg" alt="Hasura" width="40" height="40"/></a>
+	FIN COMENTARIO -->
 	
 </div>
 
@@ -377,42 +380,81 @@ Hasura
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visuals width="40" height="40""></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40" /></a>
+<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.apachefriends.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/120px-XAMPP_logo.svg.png" alt="XAMPP" width="40" height="40" /></a>
+	<!--  INICIO COMENTARIO
 <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" alt="Hadoop" width="80" height="40" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-220px-Apache_Spark_logo.svg.png" alt="Spark" width="80" height="40" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" /></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.spyder-ide.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/120px-Spyder_logo.svg.png" alt="Spyder" width="40" height="40" /></a>
 <a href="https://atom.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/atom-editor.png" alt="Atom" width="44" height="44" /></a>
 <a href="https://www.codeblocks.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/code-blocks.png" alt="Code::Blocks" width="40" height="40" /></a>
 <a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="80" height="40" /></a>
+	FIN COMENTARIO --> 
+ 
 </div>
+
+
+<!--  INICIO COMENTARIO (orden de cosas)
+Visual Studio Code
+Visual Studio
+.NET
+PhpStorm
+XAMPP
+Hadoop
+Spark
+Kafka
+Postman
+Spyder
+Atom
+Code::Blocks
+Eclipse
+	FIN COMENTARIO -->  
 
 </td>
 
 <td valign="top" width="33%" min-width="33%">
 
  
-#### Testing & Multimedia Design and Development
+#### Multimedia Design & Testing
 <div align="center">  
-<a href="https://jasmine.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a>
-<a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
-<a href="https://mochajs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
-<a href="https://karma-runner.github.io/latest/index.html" target="_blank"><img src="https://karma-runner.github.io/assets/img/banner.png" alt="karma" width="80" height="40"/></a> <!-- rel: angular.js -->
-<a href="https://www.cypress.io/" target="_blank"><img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" alt="Cypress" width="40" height="40"></a>
-<a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/></a>	
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/></a>
 <a href="https://www.canva.com/"> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
-<a href="https://robotframework.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/250px-Robot-framework-logo.png" alt="robotframework" width="40" height="40"></a>
-<a href="https://godotengine.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" alt="godotengine" width="40" height="40"></a>
-<a href="https://www.renpy.org/" target="_blank"><img src="https://www.renpy.org/static/index-logo.png" alt="renpy" width="40" height="40"></a>
 <a href="https://www.blender.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"></a>
 <a href="https://unity.com/" target="_blank"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/59311eb2aa91009ac2a4eac41a6b4ae0e26ccda2-22x24.svg" alt="unity3D" width="40" height="40"></a>
-
-
+<a href="https://godotengine.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" alt="godotengine" width="40" height="40"></a>
+<a href="https://www.renpy.org/" target="_blank"><img src="https://www.renpy.org/static/index-logo.png" alt="renpy" width="40" height="40"></a>
+<a href="https://www.selenium.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png?20200511151950" alt="Selenium" width="40" height="40"/></a>
+<a href="https://jmeter.apache.org/" target="_blank"><img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="Selenium" width="40" height="40"/></a>
+<a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
+	<!--  INICIO COMENTARIO
+<a href="https://jasmine.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a>
+<a href="https://mochajs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
+<a href="https://karma-runner.github.io/latest/index.html" target="_blank"><img src="https://karma-runner.github.io/assets/img/banner.png" alt="karma" width="80" height="40"/></a> 
+<a href="https://robotframework.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/250px-Robot-framework-logo.png" alt="robotframework" width="40" height="40"></a>
+<a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" alt="Cypress" width="40" height="40"></a>
+	FIN COMENTARIO -->  
+	
 </div>
 
+<!--  INICIO COMENTARIO (orden de cosas)
+Figma
+Canva
+Blender
+Unity3D
+Godot Engine
+Ren'Py
+Selenium
+Apache JMeter
+Jest: relacionado con React
+Jasmine: relacionado con ANGULAR 
+Mocha: relacionado con NODE
+Karma: relacionado con ANGULAR y con jasmine 
+Robot Framework
+Nginx
+Cypress
+	FIN COMENTARIO -->  
  
 
 </td>
