@@ -258,6 +258,7 @@ keras
 <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
 <a href="https://golang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/></a>
+<a href="https://graphql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="40" height="40"/></a>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"></a>	
 <a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="80" height="40" />
 FIN COMENTARIO -->  
@@ -275,6 +276,7 @@ C++
 R
 MATLAB
 Golang
+Graphql
 Java
 Scala
 	FIN COMENTARIO -->  
@@ -289,16 +291,31 @@ Scala
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40" /></a>
 <a href="https://codeigniter.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/a/ac/Codeigniter.png" alt="CodeIgniter" width="40" height="40" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/></a>
+<!--  INICIO COMENTARIO
 <a href="https://palletsprojects.com/p/flask/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://graphql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="40" height="40"/></a>
-<a href="https://gulpjs.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/100px-Gulp.js_Logo.svg.png" alt="gulp" width="40" height="40"/></a> <!-- too testing -->
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/></a>
+<a href="https://gulpjs.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/100px-Gulp.js_Logo.svg.png" alt="gulp" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://auth0.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_de_Auth0.svg" alt="Auth0" width="40" height="40"></a>
 <a href="https://www.serverless.com/" target="_blank"><img src="https://assets-global.website-files.com/60acbb950c4d66d0ab3e2007/60d841cfd24a7264a80c75fc_Serverless_logo.png" alt="Serverless" width="40" height="40"></a>
 <a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"></a>
+       FIN COMENTARIO -->  
 	
 </div>
+
+<!--  INICIO COMENTARIO (orden de cosas)
+Express.js
+Spring Boot
+Laravel
+CodeIgniter
+Flask
+Django
+Gulp
+Kubernetes
+Auth0
+Serverless
+NestJS
+	FIN COMENTARIO -->  
 
 </td>
 
@@ -306,22 +323,37 @@ Scala
 
 #### Databases & Cloud Hosting
 <div align="center">  
+<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="40" height="40" /></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="80" height="40"></a>
 <a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>   
+<!--  INICIO COMENTARIO
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40" /></a>
-<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="maria" width="80" height="40></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="Mariadb" width="80" height="40></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="40" /></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+<a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/></a>
 <a href="https://hasura.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Hasura-icon-primary.svg" alt="Hasura" width="40" height="40"></a>
-
-
-
+	FIN COMENTARIO -->  
+	
 </div>
+
+<!--  INICIO COMENTARIO (orden de cosas)
+Google Cloud
+Firebase
+Redis
+MySQL
+SQLite
+PostgreSQL
+MongoDB
+Mariadb
+AWS
+Azure
+Elasticsearch
+Hasura
+	FIN COMENTARIO -->  
 
 </td>
 
