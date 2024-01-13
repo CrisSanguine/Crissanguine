@@ -193,16 +193,15 @@ Materialize
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40" / > </a>
-<a href="https://grafana.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana" width="40" height="40"/></a>
-<a href="https://www.elastic.co/es/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="anaconda" width="40" height="40" /> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>	
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.scipy.org/"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
 <a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/100px-SpaCy_logo.svg.png" alt="spacy" width="40" height="40"/> </a> 
+<a href="https://grafana.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana" width="40" height="40"/></a>
+<a href="https://www.elastic.co/es/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
+<a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="anaconda" width="40" height="40" /> </a> 
 <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
-
 </div>
 
 <!--  INICIO COMENTARIO (orden de cosas)
