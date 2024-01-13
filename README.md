@@ -183,16 +183,17 @@ Materialize
 
 #### Data Analyst  & Machine Learning
 <div align="center">  
-<a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="40" height="40" /></a>
+<a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google-Colab" width="40" height="40" /></a>
 <a href="https://docs.google.com/spreadsheets/"><img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" alt="Google Sheets" width="40" height="40"></a>
 <a href="https://support.microsoft.com/es-es/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="MS Excel" width="40" height="40"></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" /></a>
 <a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" /></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40" /></a>
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40" / > </a>
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/> </a>
+<!--  INICIO COMENTARIO
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="pandas" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>	
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -202,28 +203,30 @@ Materialize
 <a href="https://www.elastic.co/es/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="anaconda" width="40" height="40" /> </a> 
 <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
+	FIN COMENTARIO -->  
+ 
 </div>
 
 <!--  INICIO COMENTARIO (orden de cosas)
-Google Colaboratory
+Google Colab
 Google Sheets
 MS Excel
 Power BI
 Tableau
-Jupyter
+Jupyter 
+NumPy: fundamental para inicio de datanalyst (complemento de jupiter)
 Matplotlib
 Seaborn
+Pandas: fundamental para inicio de datanalyst (complemento de numpy)
+PyTorch
+scikit_learn
+TensorFlow
+SciPy: funciones estadisticas avanzadas como "R"
+spacy
 Grafana
 Kibana
-TensorFlow
-NumPy
 Anaconda
-Scikit-Learn
-PyTorch
-Pandas
-SciPy
-Spacy
-Keras
+keras
 	FIN COMENTARIO -->  
 
 
@@ -248,16 +251,33 @@ Keras
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" /></a>
 <a href="https://gdscript.com" target="_blank"><img src="https://docs.godotengine.org/es/3.5/_static/docs_logo.png" alt="gdscript" width="40" height="40" /></a>
-<a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/> </a>
+<!--  INICIO COMENTARIO
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="c & c++" width="44" height="44"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></a>
-<a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"></a>
-<a href="https://golang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/></a>
-<a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="80" height="40" />
+<a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
+<a href="https://golang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/></a>
+<a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"></a>	
+<a href="https://www.scala-lang.org/" target="_blank"><img title="Scala" alt="Scala" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" width="80" height="40" />
+FIN COMENTARIO -->  
 
 </div>
+
+<!--  INICIO COMENTARIO (orden de cosas)
+PHP
+Node.js
+Python
+gdscript
+C#
+C & C++
+C++
+R
+MATLAB
+Golang
+Java
+Scala
+	FIN COMENTARIO -->  
 
 </td>
 
