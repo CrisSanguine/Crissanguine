@@ -53,9 +53,9 @@ FIVEER
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&color=E2B989&size=20&lines=I'm+degree+in+Business+Administration;I'm+a+proud+Argentine+🇦🇷;)](https://git.io/typing-svg)
 
 <h2 align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height= "30" width ="18">
 	Programmer Analyst | Business Administration | Data Analysis | FullStack Developer
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height= "30" width ="18">
 </h2>
 
 <h3 align="center"> 🧍Personal Information:🧍 English / Spanish <h3/> 
